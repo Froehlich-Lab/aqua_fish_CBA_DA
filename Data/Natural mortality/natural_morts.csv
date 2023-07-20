@@ -1,4 +1,4 @@
-sciname,sp_name,group ,ISSCAAP_Group,M_dscrt_late,M_dsrt_early,Binary
+sciname,sp_name,group ,ISSCAAP_Group,M_dscrt_late,M_dsrt_early,Type
 Salvelinus alpinus,Arctic char,PISCES,"Salmons, trouts, smelts",0.32,0.52,Domesticated
 Epinephelus areolatus,Areolate grouper,PISCES,Miscellaneous coastal fishes,0.34,0.54,Capture-based
 Thunnus thynnus,Atlantic bluefin tuna,PISCES,"Tunas, bonitos, billfishes",0.14,0.14,Capture-based
