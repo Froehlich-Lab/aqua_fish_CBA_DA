@@ -1,0 +1,773 @@
+ID,Sci_Name,Common,ISSCAAP,Sp.grp,Year,Country_name,Fishing_Area,Fishing_name,CAPSUM_tonnes,AQSUM_tonnes,TOTAL_tonnes,Binary,Early_M,Late_M
+"Acanthopagrus berda_Bahrain_Indian Ocean, Western",Acanthopagrus berda,Goldsilk seabream,Miscellaneous coastal fishes,finfish,2016,Bahrain,51,"Indian Ocean, Western",53,0,53,CBA,0.53,0.33
+"Acanthopagrus berda_Saudi Arabia_Indian Ocean, Western",Acanthopagrus berda,Goldsilk seabream,Miscellaneous coastal fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",44,0,44,CBA,0.53,0.33
+"Anarhichas lupus_Belgium_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Belgium,27,"Atlantic, Northeast",52,0,52,CBA,0.33,0.13
+"Anarhichas lupus_Denmark_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Denmark,27,"Atlantic, Northeast",466,0,466,CBA,0.33,0.13
+"Anarhichas lupus_Faroe Islands_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Faroe Islands,27,"Atlantic, Northeast",105,0,105,CBA,0.33,0.13
+"Anarhichas lupus_France_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,France,27,"Atlantic, Northeast",44,0,44,CBA,0.33,0.13
+"Anarhichas lupus_Greenland_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Greenland,27,"Atlantic, Northeast",7,0,7,CBA,0.33,0.13
+"Anarhichas lupus_Iceland_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Iceland,27,"Atlantic, Northeast",8615,0,8615,CBA,0.33,0.13
+"Anarhichas lupus_Norway_Atlantic, Northwest",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Norway,21,"Atlantic, Northwest",1,0,1,CBA,0.33,0.13
+"Anarhichas lupus_Norway_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Norway,27,"Atlantic, Northeast",943,0,943,CBA,0.33,0.13
+"Anarhichas lupus_Poland_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Poland,27,"Atlantic, Northeast",1,0,1,CBA,0.33,0.13
+"Anarhichas lupus_Russian Federation_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Russian Federation,27,"Atlantic, Northeast",1310,0,1310,CBA,0.33,0.13
+"Anarhichas lupus_Spain_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Spain,27,"Atlantic, Northeast",6,0,6,CBA,0.33,0.13
+"Anarhichas lupus_Sweden_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,Sweden,27,"Atlantic, Northeast",20,0,20,CBA,0.33,0.13
+"Anarhichas lupus_United Kingdom_Atlantic, Northeast",Anarhichas lupus,Atlantic wolffish,Miscellaneous demersal fishes,finfish,2016,United Kingdom,27,"Atlantic, Northeast",163,0,163,CBA,0.33,0.13
+Anguilla anguilla_Algeria_Mediterranean and Black Sea,Anguilla anguilla,European eel,River eels,finfish,2016,Algeria,37,Mediterranean and Black Sea,98,0,98,CBA,0.41,0.21
+Anguilla anguilla_Croatia_Mediterranean and Black Sea,Anguilla anguilla,European eel,River eels,finfish,2016,Croatia,37,Mediterranean and Black Sea,1,0,1,CBA,0.41,0.21
+"Anguilla anguilla_Denmark_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Denmark,27,"Atlantic, Northeast",254,567,821,CBA,0.41,0.21
+"Anguilla anguilla_Estonia_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Estonia,27,"Atlantic, Northeast",1,0,1,CBA,0.41,0.21
+"Anguilla anguilla_Finland_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Finland,27,"Atlantic, Northeast",10,0,10,CBA,0.41,0.21
+"Anguilla anguilla_France_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,France,27,"Atlantic, Northeast",34,0,34,CBA,0.41,0.21
+Anguilla anguilla_France_Mediterranean and Black Sea,Anguilla anguilla,European eel,River eels,finfish,2016,France,37,Mediterranean and Black Sea,30,0,30,CBA,0.41,0.21
+"Anguilla anguilla_Germany_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Germany,27,"Atlantic, Northeast",39,0,39,CBA,0.41,0.21
+Anguilla anguilla_Greece_Mediterranean and Black Sea,Anguilla anguilla,European eel,River eels,finfish,2016,Greece,37,Mediterranean and Black Sea,47,0,47,CBA,0.41,0.21
+Anguilla anguilla_Italy_Mediterranean and Black Sea,Anguilla anguilla,European eel,River eels,finfish,2016,Italy,37,Mediterranean and Black Sea,89,0,89,CBA,0.41,0.21
+"Anguilla anguilla_Netherlands_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Netherlands,27,"Atlantic, Northeast",14,0,14,CBA,0.41,0.21
+"Anguilla anguilla_Norway_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Norway,27,"Atlantic, Northeast",4,0,4,CBA,0.41,0.21
+"Anguilla anguilla_Poland_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Poland,27,"Atlantic, Northeast",59,0,59,CBA,0.41,0.21
+"Anguilla anguilla_Portugal_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Portugal,27,"Atlantic, Northeast",5,0,5,CBA,0.41,0.21
+"Anguilla anguilla_Russian Federation_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Russian Federation,27,"Atlantic, Northeast",6,0,6,CBA,0.41,0.21
+"Anguilla anguilla_Spain_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Spain,27,"Atlantic, Northeast",36,0,36,CBA,0.41,0.21
+Anguilla anguilla_Spain_Mediterranean and Black Sea,Anguilla anguilla,European eel,River eels,finfish,2016,Spain,37,Mediterranean and Black Sea,19,0,19,CBA,0.41,0.21
+"Anguilla anguilla_Sweden_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,Sweden,27,"Atlantic, Northeast",181,0,181,CBA,0.41,0.21
+Anguilla anguilla_Tunisia_Mediterranean and Black Sea,Anguilla anguilla,European eel,River eels,finfish,2016,Tunisia,37,Mediterranean and Black Sea,248,0,248,CBA,0.41,0.21
+"Anguilla anguilla_United Kingdom_Atlantic, Northeast",Anguilla anguilla,European eel,River eels,finfish,2016,United Kingdom,27,"Atlantic, Northeast",2,0,2,CBA,0.41,0.21
+Atherina boyeri_Bulgaria_Mediterranean and Black Sea,Atherina boyeri,Big-scale sand smelt,Miscellaneous pelagic fishes,finfish,2016,Bulgaria,37,Mediterranean and Black Sea,50,0,50,CBA,0.85,0.65
+Atherina boyeri_Croatia_Mediterranean and Black Sea,Atherina boyeri,Big-scale sand smelt,Miscellaneous pelagic fishes,finfish,2016,Croatia,37,Mediterranean and Black Sea,6,0,6,CBA,0.85,0.65
+Atherina boyeri_Russian Federation_Mediterranean and Black Sea,Atherina boyeri,Big-scale sand smelt,Miscellaneous pelagic fishes,finfish,2016,Russian Federation,37,Mediterranean and Black Sea,127,0,127,CBA,0.85,0.65
+Atherina boyeri_Ukraine_Mediterranean and Black Sea,Atherina boyeri,Big-scale sand smelt,Miscellaneous pelagic fishes,finfish,2016,Ukraine,37,Mediterranean and Black Sea,220,0,220,CBA,0.85,0.65
+"Bolbometopon muricatum_Saudi Arabia_Indian Ocean, Western",Bolbometopon muricatum,Green humphead parrotfish,Miscellaneous coastal fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",167,0,167,CBA,0.33,0.13
+"Carangoides malabaricus_Qatar_Indian Ocean, Western",Carangoides malabaricus,Malabar trevally,Miscellaneous pelagic fishes,finfish,2016,Qatar,51,"Indian Ocean, Western",201,0,201,CBA,0.98,0.78
+"Carangoides malabaricus_Saudi Arabia_Indian Ocean, Western",Carangoides malabaricus,Malabar trevally,Miscellaneous pelagic fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",98,0,98,CBA,0.98,0.78
+"Caranx hippos_Angola_Atlantic, Southeast",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,Angola,47,"Atlantic, Southeast",548,0,548,CBA,0.86,0.66
+"Caranx hippos_Cameroon_Atlantic, Eastern Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,Cameroon,34,"Atlantic, Eastern Central",69,0,69,CBA,0.86,0.66
+"Caranx hippos_Congo, Dem. Rep. of the_Atlantic, Eastern Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,"Congo, Dem. Rep. of the",34,"Atlantic, Eastern Central",347,0,347,CBA,0.86,0.66
+"Caranx hippos_Ghana_Atlantic, Eastern Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,Ghana,34,"Atlantic, Eastern Central",15275,0,15275,CBA,0.86,0.66
+"Caranx hippos_Russian Federation_Atlantic, Eastern Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,Russian Federation,34,"Atlantic, Eastern Central",113,0,113,CBA,0.86,0.66
+"Caranx hippos_Sao Tome and Principe_Atlantic, Eastern Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,Sao Tome and Principe,34,"Atlantic, Eastern Central",7,0,7,CBA,0.86,0.66
+"Caranx hippos_Senegal_Atlantic, Eastern Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,Senegal,34,"Atlantic, Eastern Central",441,0,441,CBA,0.86,0.66
+"Caranx hippos_Togo_Atlantic, Eastern Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,Togo,34,"Atlantic, Eastern Central",1203,0,1203,CBA,0.86,0.66
+"Caranx hippos_United States of America_Atlantic, Northwest",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,United States of America,21,"Atlantic, Northwest",3,0,3,CBA,0.86,0.66
+"Caranx hippos_United States of America_Atlantic, Western Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,United States of America,31,"Atlantic, Western Central",314,0,314,CBA,0.86,0.66
+"Caranx hippos_Venezuela, Boliv Rep of_Atlantic, Western Central",Caranx hippos,Crevalle jack,Miscellaneous pelagic fishes,finfish,2016,"Venezuela, Boliv Rep of",31,"Atlantic, Western Central",2433,0,2433,CBA,0.86,0.66
+"Caranx ignobilis_Iran (Islamic Rep. of)_Indian Ocean, Western",Caranx ignobilis,Giant trevally,Miscellaneous pelagic fishes,finfish,2016,Iran (Islamic Rep. of),51,"Indian Ocean, Western",20142,0,20142,CBA,0.58,0.38
+"Caranx ignobilis_Qatar_Indian Ocean, Western",Caranx ignobilis,Giant trevally,Miscellaneous pelagic fishes,finfish,2016,Qatar,51,"Indian Ocean, Western",387,0,387,CBA,0.58,0.38
+"Caranx ignobilis_Saudi Arabia_Indian Ocean, Western",Caranx ignobilis,Giant trevally,Miscellaneous pelagic fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",69,0,69,CBA,0.58,0.38
+"Caranx sexfasciatus_Saudi Arabia_Indian Ocean, Western",Caranx sexfasciatus,Bigeye trevally,Miscellaneous pelagic fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",143,0,143,CBA,0.76,0.56
+"Centropomus undecimalis_Mexico_Atlantic, Western Central",Centropomus undecimalis,Common snook,Miscellaneous coastal fishes,finfish,2016,Mexico,31,"Atlantic, Western Central",290,0,290,CBA,0.66,0.46
+"Centropomus undecimalis_Venezuela, Boliv Rep of_Atlantic, Western Central",Centropomus undecimalis,Common snook,Miscellaneous coastal fishes,finfish,2016,"Venezuela, Boliv Rep of",31,"Atlantic, Western Central",2745,0,2745,CBA,0.66,0.46
+"Cromileptes altivelis_Indonesia_Indian Ocean, Eastern",Cromileptes altivelis,Humpback grouper,Miscellaneous coastal fishes,finfish,2016,Indonesia,57,"Indian Ocean, Eastern",3946,0,3946,CBA,0.5,0.3
+"Cromileptes altivelis_Indonesia_Pacific, Western Central",Cromileptes altivelis,Humpback grouper,Miscellaneous coastal fishes,finfish,2016,Indonesia,71,"Pacific, Western Central",9017,0,9017,CBA,0.5,0.3
+Dentex dentex_Albania_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Albania,37,Mediterranean and Black Sea,18,0,18,CBA,0.41,0.21
+Dentex dentex_Algeria_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Algeria,37,Mediterranean and Black Sea,9,0,9,CBA,0.41,0.21
+Dentex dentex_Croatia_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Croatia,37,Mediterranean and Black Sea,20,1.106,21.106,CBA,0.41,0.21
+Dentex dentex_Cyprus_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Cyprus,37,Mediterranean and Black Sea,2,0,2,CBA,0.41,0.21
+Dentex dentex_France_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,France,37,Mediterranean and Black Sea,11,0,11,CBA,0.41,0.21
+"Dentex dentex_Greece_Atlantic, Eastern Central",Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Greece,34,"Atlantic, Eastern Central",8,0,8,CBA,0.41,0.21
+Dentex dentex_Greece_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Greece,37,Mediterranean and Black Sea,257,0,257,CBA,0.41,0.21
+"Dentex dentex_Italy_Atlantic, Eastern Central",Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Italy,34,"Atlantic, Eastern Central",2,0,2,CBA,0.41,0.21
+Dentex dentex_Italy_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Italy,37,Mediterranean and Black Sea,176,0,176,CBA,0.41,0.21
+Dentex dentex_Libya_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Libya,37,Mediterranean and Black Sea,325,0,325,CBA,0.41,0.21
+Dentex dentex_Malta_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Malta,37,Mediterranean and Black Sea,6,0,6,CBA,0.41,0.21
+Dentex dentex_Montenegro_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Montenegro,37,Mediterranean and Black Sea,11,0,11,CBA,0.41,0.21
+"Dentex dentex_Portugal_Atlantic, Northeast",Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Portugal,27,"Atlantic, Northeast",8,0,8,CBA,0.41,0.21
+"Dentex dentex_Spain_Atlantic, Northeast",Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Spain,27,"Atlantic, Northeast",18,0,18,CBA,0.41,0.21
+"Dentex dentex_Spain_Atlantic, Eastern Central",Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Spain,34,"Atlantic, Eastern Central",79,0,79,CBA,0.41,0.21
+Dentex dentex_Spain_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Spain,37,Mediterranean and Black Sea,94,0,94,CBA,0.41,0.21
+Dentex dentex_Tunisia_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Tunisia,37,Mediterranean and Black Sea,255,0,255,CBA,0.41,0.21
+Dentex dentex_Turkey_Mediterranean and Black Sea,Dentex dentex,Common dentex,Miscellaneous coastal fishes,finfish,2016,Turkey,37,Mediterranean and Black Sea,54,43,97,CBA,0.41,0.21
+Dentex gibbosus_Croatia_Mediterranean and Black Sea,Dentex gibbosus,Pink dentex,Miscellaneous coastal fishes,finfish,2016,Croatia,37,Mediterranean and Black Sea,2,0,2,CBA,0.47,0.27
+Dicentrarchus punctatus_Egypt_Mediterranean and Black Sea,Dicentrarchus punctatus,Spotted seabass,Miscellaneous coastal fishes,finfish,2016,Egypt,37,Mediterranean and Black Sea,378,0,378,CBA,0.39,0.19
+"Dicentrarchus punctatus_France_Atlantic, Northeast",Dicentrarchus punctatus,Spotted seabass,Miscellaneous coastal fishes,finfish,2016,France,27,"Atlantic, Northeast",126,0,126,CBA,0.39,0.19
+Dicentrarchus punctatus_Libya_Mediterranean and Black Sea,Dicentrarchus punctatus,Spotted seabass,Miscellaneous coastal fishes,finfish,2016,Libya,37,Mediterranean and Black Sea,95,0,95,CBA,0.39,0.19
+"Dicentrarchus punctatus_Mauritania_Atlantic, Eastern Central",Dicentrarchus punctatus,Spotted seabass,Miscellaneous coastal fishes,finfish,2016,Mauritania,34,"Atlantic, Eastern Central",217,0,217,CBA,0.39,0.19
+"Dicentrarchus punctatus_Portugal_Atlantic, Northeast",Dicentrarchus punctatus,Spotted seabass,Miscellaneous coastal fishes,finfish,2016,Portugal,27,"Atlantic, Northeast",45,0,45,CBA,0.39,0.19
+"Dicentrarchus punctatus_Senegal_Atlantic, Eastern Central",Dicentrarchus punctatus,Spotted seabass,Miscellaneous coastal fishes,finfish,2016,Senegal,34,"Atlantic, Eastern Central",117,0,117,CBA,0.39,0.19
+"Dicentrarchus punctatus_Spain_Atlantic, Northeast",Dicentrarchus punctatus,Spotted seabass,Miscellaneous coastal fishes,finfish,2016,Spain,27,"Atlantic, Northeast",22,0,22,CBA,0.39,0.19
+Diplodus sargus_Algeria_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Algeria,37,Mediterranean and Black Sea,118,0,118,CBA,0.55,0.35
+Diplodus sargus_Croatia_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Croatia,37,Mediterranean and Black Sea,3,0,3,CBA,0.55,0.35
+Diplodus sargus_Cyprus_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Cyprus,37,Mediterranean and Black Sea,14,0,14,CBA,0.55,0.35
+Diplodus sargus_Egypt_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Egypt,37,Mediterranean and Black Sea,455,0,455,CBA,0.55,0.35
+"Diplodus sargus_France_Atlantic, Northeast",Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,France,27,"Atlantic, Northeast",298,0,298,CBA,0.55,0.35
+Diplodus sargus_France_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,France,37,Mediterranean and Black Sea,67,0,67,CBA,0.55,0.35
+Diplodus sargus_Greece_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Greece,37,Mediterranean and Black Sea,339,0,339,CBA,0.55,0.35
+Diplodus sargus_Italy_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Italy,37,Mediterranean and Black Sea,171,4,175,CBA,0.55,0.35
+Diplodus sargus_Lebanon_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Lebanon,37,Mediterranean and Black Sea,239,0,239,CBA,0.55,0.35
+Diplodus sargus_Libya_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Libya,37,Mediterranean and Black Sea,500,0,500,CBA,0.55,0.35
+"Diplodus sargus_Lithuania_Atlantic, Eastern Central",Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Lithuania,34,"Atlantic, Eastern Central",5,0,5,CBA,0.55,0.35
+Diplodus sargus_Malta_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Malta,37,Mediterranean and Black Sea,13,0,13,CBA,0.55,0.35
+"Diplodus sargus_Portugal_Atlantic, Northeast",Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Portugal,27,"Atlantic, Northeast",401,3.77,404.77,CBA,0.55,0.35
+"Diplodus sargus_Spain_Atlantic, Northeast",Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Spain,27,"Atlantic, Northeast",687,2.975,689.975,CBA,0.55,0.35
+Diplodus sargus_Spain_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Spain,37,Mediterranean and Black Sea,154,0,154,CBA,0.55,0.35
+Diplodus sargus_Syrian Arab Republic_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Syrian Arab Republic,37,Mediterranean and Black Sea,60,0,60,CBA,0.55,0.35
+Diplodus sargus_Tunisia_Mediterranean and Black Sea,Diplodus sargus,White seabream,Miscellaneous coastal fishes,finfish,2016,Tunisia,37,Mediterranean and Black Sea,554,0,554,CBA,0.55,0.35
+Diplodus vulgaris_Croatia_Mediterranean and Black Sea,Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Croatia,37,Mediterranean and Black Sea,17,0,17,CBA,0.6,0.4
+Diplodus vulgaris_Cyprus_Mediterranean and Black Sea,Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Cyprus,37,Mediterranean and Black Sea,2,0,2,CBA,0.6,0.4
+Diplodus vulgaris_France_Mediterranean and Black Sea,Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,France,37,Mediterranean and Black Sea,3,0,3,CBA,0.6,0.4
+Diplodus vulgaris_Israel_Mediterranean and Black Sea,Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Israel,37,Mediterranean and Black Sea,70,0,70,CBA,0.6,0.4
+Diplodus vulgaris_Italy_Mediterranean and Black Sea,Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Italy,37,Mediterranean and Black Sea,182,0,182,CBA,0.6,0.4
+Diplodus vulgaris_Malta_Mediterranean and Black Sea,Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Malta,37,Mediterranean and Black Sea,1,0,1,CBA,0.6,0.4
+"Diplodus vulgaris_Portugal_Atlantic, Northeast",Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Portugal,27,"Atlantic, Northeast",368,0,368,CBA,0.6,0.4
+"Diplodus vulgaris_Spain_Atlantic, Northeast",Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Spain,27,"Atlantic, Northeast",93,0,93,CBA,0.6,0.4
+Diplodus vulgaris_Spain_Mediterranean and Black Sea,Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Spain,37,Mediterranean and Black Sea,62,0,62,CBA,0.6,0.4
+Diplodus vulgaris_Tunisia_Mediterranean and Black Sea,Diplodus vulgaris,Common two-banded seabream,Miscellaneous coastal fishes,finfish,2016,Tunisia,37,Mediterranean and Black Sea,89,0,89,CBA,0.6,0.4
+"Eleutheronema tetradactylum_Indonesia_Indian Ocean, Eastern",Eleutheronema tetradactylum,Fourfinger threadfin,Miscellaneous coastal fishes,finfish,2016,Indonesia,57,"Indian Ocean, Eastern",766,0,766,CBA,0.68,0.48
+"Eleutheronema tetradactylum_Indonesia_Pacific, Western Central",Eleutheronema tetradactylum,Fourfinger threadfin,Miscellaneous coastal fishes,finfish,2016,Indonesia,71,"Pacific, Western Central",8675,0,8675,CBA,0.68,0.48
+"Eleutheronema tetradactylum_Iran (Islamic Rep. of)_Indian Ocean, Western",Eleutheronema tetradactylum,Fourfinger threadfin,Miscellaneous coastal fishes,finfish,2016,Iran (Islamic Rep. of),51,"Indian Ocean, Western",1596,0,1596,CBA,0.68,0.48
+"Eleutheronema tetradactylum_Kuwait_Indian Ocean, Western",Eleutheronema tetradactylum,Fourfinger threadfin,Miscellaneous coastal fishes,finfish,2016,Kuwait,51,"Indian Ocean, Western",37,0,37,CBA,0.68,0.48
+"Eleutheronema tetradactylum_Pakistan_Indian Ocean, Western",Eleutheronema tetradactylum,Fourfinger threadfin,Miscellaneous coastal fishes,finfish,2016,Pakistan,51,"Indian Ocean, Western",265,0,265,CBA,0.68,0.48
+"Eleutheronema tetradactylum_Taiwan Province of China_Pacific, Northwest",Eleutheronema tetradactylum,Fourfinger threadfin,Miscellaneous coastal fishes,finfish,2016,Taiwan Province of China,61,"Pacific, Northwest",584,0,584,CBA,0.68,0.48
+"Epinephelus areolatus_Egypt_Indian Ocean, Western",Epinephelus areolatus,Areolate grouper,Miscellaneous coastal fishes,finfish,2016,Egypt,51,"Indian Ocean, Western",102,0,102,CBA,0.54,0.34
+"Epinephelus areolatus_Saudi Arabia_Indian Ocean, Western",Epinephelus areolatus,Areolate grouper,Miscellaneous coastal fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",478,0,478,CBA,0.54,0.34
+"Epinephelus coioides_Iran (Islamic Rep. of)_Indian Ocean, Western",Epinephelus coioides,Orange-spotted grouper,Miscellaneous coastal fishes,finfish,2016,Iran (Islamic Rep. of),51,"Indian Ocean, Western",4666,0,4666,CBA,0.41,0.21
+"Epinephelus coioides_Saudi Arabia_Indian Ocean, Western",Epinephelus coioides,Orange-spotted grouper,Miscellaneous coastal fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",47,0,47,CBA,0.41,0.21
+"Epinephelus coioides_United Arab Emirates_Indian Ocean, Western",Epinephelus coioides,Orange-spotted grouper,Miscellaneous coastal fishes,finfish,2016,United Arab Emirates,51,"Indian Ocean, Western",8010,0,8010,CBA,0.41,0.21
+"Epinephelus fuscoguttatus_Saudi Arabia_Indian Ocean, Western",Epinephelus fuscoguttatus,Brown-marbled grouper,Miscellaneous coastal fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",56,0,56,CBA,0.46,0.26
+"Epinephelus tauvina_Egypt_Indian Ocean, Western",Epinephelus tauvina,Greasy grouper,Miscellaneous coastal fishes,finfish,2016,Egypt,51,"Indian Ocean, Western",85,0,85,CBA,0.4,0.2
+"Epinephelus tauvina_Indonesia_Indian Ocean, Eastern",Epinephelus tauvina,Greasy grouper,Miscellaneous coastal fishes,finfish,2016,Indonesia,57,"Indian Ocean, Eastern",5770,0,5770,CBA,0.4,0.2
+"Epinephelus tauvina_Indonesia_Pacific, Western Central",Epinephelus tauvina,Greasy grouper,Miscellaneous coastal fishes,finfish,2016,Indonesia,71,"Pacific, Western Central",12625,0,12625,CBA,0.4,0.2
+"Epinephelus tauvina_Saudi Arabia_Indian Ocean, Western",Epinephelus tauvina,Greasy grouper,Miscellaneous coastal fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",1092,0,1092,CBA,0.4,0.2
+"Gnathanodon speciosus_Bahrain_Indian Ocean, Western",Gnathanodon speciosus,Golden trevally,Miscellaneous pelagic fishes,finfish,2016,Bahrain,51,"Indian Ocean, Western",87,0,87,CBA,0.74,0.54
+"Gnathanodon speciosus_Qatar_Indian Ocean, Western",Gnathanodon speciosus,Golden trevally,Miscellaneous pelagic fishes,finfish,2016,Qatar,51,"Indian Ocean, Western",224,0,224,CBA,0.74,0.54
+"Gnathanodon speciosus_Saudi Arabia_Indian Ocean, Western",Gnathanodon speciosus,Golden trevally,Miscellaneous pelagic fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",697,0,697,CBA,0.74,0.54
+"Gnathanodon speciosus_United Arab Emirates_Indian Ocean, Western",Gnathanodon speciosus,Golden trevally,Miscellaneous pelagic fishes,finfish,2016,United Arab Emirates,51,"Indian Ocean, Western",1680,0,1680,CBA,0.74,0.54
+"Konosirus punctatus_Japan_Pacific, Northwest",Konosirus punctatus,Dotted gizzard shad,Shads,finfish,2016,Japan,61,"Pacific, Northwest",4300,0,4300,CBA,0.68,0.48
+"Lethrinus miniatus_Taiwan Province of China_Pacific, Northwest",Lethrinus miniatus,Trumpet emperor,Miscellaneous coastal fishes,finfish,2016,Taiwan Province of China,61,"Pacific, Northwest",17,0,17,CBA,0.55,0.35
+"Lutjanus argentimaculatus_Malaysia_Indian Ocean, Eastern",Lutjanus argentimaculatus,Mangrove red snapper,Miscellaneous coastal fishes,finfish,2016,Malaysia,57,"Indian Ocean, Eastern",1345,0,1345,CBA,0.41,0.21
+"Lutjanus argentimaculatus_Malaysia_Pacific, Western Central",Lutjanus argentimaculatus,Mangrove red snapper,Miscellaneous coastal fishes,finfish,2016,Malaysia,71,"Pacific, Western Central",7349,0,7349,CBA,0.41,0.21
+"Lutjanus argentimaculatus_Pakistan_Indian Ocean, Western",Lutjanus argentimaculatus,Mangrove red snapper,Miscellaneous coastal fishes,finfish,2016,Pakistan,51,"Indian Ocean, Western",1121,0,1121,CBA,0.41,0.21
+"Lutjanus johnii_Iran (Islamic Rep. of)_Indian Ocean, Western",Lutjanus johnii,John's snapper,Miscellaneous coastal fishes,finfish,2016,Iran (Islamic Rep. of),51,"Indian Ocean, Western",6061,0,6061,CBA,0.41,0.21
+"Lutjanus malabaricus_Iran (Islamic Rep. of)_Indian Ocean, Western",Lutjanus malabaricus,Malabar blood snapper,Miscellaneous coastal fishes,finfish,2016,Iran (Islamic Rep. of),51,"Indian Ocean, Western",1559,0,1559,CBA,0.39,0.19
+"Lutjanus malabaricus_Qatar_Indian Ocean, Western",Lutjanus malabaricus,Malabar blood snapper,Miscellaneous coastal fishes,finfish,2016,Qatar,51,"Indian Ocean, Western",110,0,110,CBA,0.39,0.19
+"Megalops atlanticus_Brazil_Atlantic, Southwest",Megalops atlanticus,Tarpon,Miscellaneous coastal fishes,finfish,2016,Brazil,41,"Atlantic, Southwest",780,0,780,CBA,0.31,0.11
+"Megalops atlanticus_Colombia_Atlantic, Western Central",Megalops atlanticus,Tarpon,Miscellaneous coastal fishes,finfish,2016,Colombia,31,"Atlantic, Western Central",1,0,1,CBA,0.31,0.11
+"Megalops atlanticus_Dominican Republic_Atlantic, Western Central",Megalops atlanticus,Tarpon,Miscellaneous coastal fishes,finfish,2016,Dominican Republic,31,"Atlantic, Western Central",43,0,43,CBA,0.31,0.11
+"Megalops atlanticus_French Guiana_Atlantic, Western Central",Megalops atlanticus,Tarpon,Miscellaneous coastal fishes,finfish,2016,French Guiana,31,"Atlantic, Western Central",25,0,25,CBA,0.31,0.11
+"Megalops atlanticus_Mexico_Atlantic, Western Central",Megalops atlanticus,Tarpon,Miscellaneous coastal fishes,finfish,2016,Mexico,31,"Atlantic, Western Central",1,0,1,CBA,0.31,0.11
+"Megalops atlanticus_Venezuela, Boliv Rep of_Atlantic, Western Central",Megalops atlanticus,Tarpon,Miscellaneous coastal fishes,finfish,2016,"Venezuela, Boliv Rep of",31,"Atlantic, Western Central",129,0,129,CBA,0.31,0.11
+"Melanogrammus aeglefinus_Belgium_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Belgium,27,"Atlantic, Northeast",147,0,147,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Canada_Atlantic, Northwest",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Canada,21,"Atlantic, Northwest",15871,0,15871,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Denmark_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Denmark,27,"Atlantic, Northeast",2254,0,2254,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Estonia_Atlantic, Northwest",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Estonia,21,"Atlantic, Northwest",24,0,24,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Faroe Islands_Atlantic, Northwest",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Faroe Islands,21,"Atlantic, Northwest",1,0,1,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Faroe Islands_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Faroe Islands,27,"Atlantic, Northeast",7194,0,7194,CBA,0.5,0.3
+"Melanogrammus aeglefinus_France_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,France,27,"Atlantic, Northeast",5274,0,5274,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Germany_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Germany,27,"Atlantic, Northeast",851,0,851,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Greenland_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Greenland,27,"Atlantic, Northeast",1402,0,1402,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Iceland_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Iceland,27,"Atlantic, Northeast",38470,0,38470,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Ireland_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Ireland,27,"Atlantic, Northeast",3772,0,3772,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Isle of Man_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Isle of Man,27,"Atlantic, Northeast",1,0,1,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Netherlands_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Netherlands,27,"Atlantic, Northeast",202,0,202,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Norway_Atlantic, Northwest",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Norway,21,"Atlantic, Northwest",1,0,1,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Norway_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Norway,27,"Atlantic, Northeast",110335,0,110335,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Poland_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Poland,27,"Atlantic, Northeast",211,0,211,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Portugal_Atlantic, Northwest",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Portugal,21,"Atlantic, Northwest",158,0,158,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Portugal_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Portugal,27,"Atlantic, Northeast",120,0,120,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Russian Federation_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Russian Federation,27,"Atlantic, Northeast",115711,0,115711,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Spain_Atlantic, Northwest",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Spain,21,"Atlantic, Northwest",46,0,46,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Spain_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Spain,27,"Atlantic, Northeast",180,0,180,CBA,0.5,0.3
+"Melanogrammus aeglefinus_St. Pierre and Miquelon_Atlantic, Northwest",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,St. Pierre and Miquelon,21,"Atlantic, Northwest",126,0,126,CBA,0.5,0.3
+"Melanogrammus aeglefinus_Sweden_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,Sweden,27,"Atlantic, Northeast",248,0,248,CBA,0.5,0.3
+"Melanogrammus aeglefinus_United Kingdom_Atlantic, Northeast",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,United Kingdom,27,"Atlantic, Northeast",34001,0,34001,CBA,0.5,0.3
+"Melanogrammus aeglefinus_United States of America_Atlantic, Northwest",Melanogrammus aeglefinus,Haddock,"Cods, hakes, haddocks",finfish,2016,United States of America,21,"Atlantic, Northwest",5015,0,5015,CBA,0.5,0.3
+"Miichthys miiuy_China_Pacific, Northwest",Miichthys miiuy,Mi-iuy (brown) croaker,Miscellaneous coastal fishes,finfish,2016,China,61,"Pacific, Northwest",72611,0,72611,CBA,0.66,0.46
+"Miichthys miiuy_Taiwan Province of China_Pacific, Northwest",Miichthys miiuy,Mi-iuy (brown) croaker,Miscellaneous coastal fishes,finfish,2016,Taiwan Province of China,61,"Pacific, Northwest",181,0,181,CBA,0.66,0.46
+"Muraenesox cinereus_China_Pacific, Northwest",Muraenesox cinereus,Daggertooth pike conger,Miscellaneous demersal fishes,finfish,2016,China,61,"Pacific, Northwest",389531,0,389531,CBA,0.48,0.28
+"Muraenesox cinereus_Korea, Republic of_Pacific, Northwest",Muraenesox cinereus,Daggertooth pike conger,Miscellaneous demersal fishes,finfish,2016,"Korea, Republic of",61,"Pacific, Northwest",1378,0,1378,CBA,0.48,0.28
+"Muraenesox cinereus_Malaysia_Indian Ocean, Eastern",Muraenesox cinereus,Daggertooth pike conger,Miscellaneous demersal fishes,finfish,2016,Malaysia,57,"Indian Ocean, Eastern",2051,0,2051,CBA,0.48,0.28
+"Muraenesox cinereus_Malaysia_Pacific, Western Central",Muraenesox cinereus,Daggertooth pike conger,Miscellaneous demersal fishes,finfish,2016,Malaysia,71,"Pacific, Western Central",4456,0,4456,CBA,0.48,0.28
+"Muraenesox cinereus_Taiwan Province of China_Pacific, Northwest",Muraenesox cinereus,Daggertooth pike conger,Miscellaneous demersal fishes,finfish,2016,Taiwan Province of China,61,"Pacific, Northwest",377,0,377,CBA,0.48,0.28
+"Muraenesox cinereus_Thailand_Indian Ocean, Eastern",Muraenesox cinereus,Daggertooth pike conger,Miscellaneous demersal fishes,finfish,2016,Thailand,57,"Indian Ocean, Eastern",426,0,426,CBA,0.48,0.28
+"Muraenesox cinereus_Thailand_Pacific, Western Central",Muraenesox cinereus,Daggertooth pike conger,Miscellaneous demersal fishes,finfish,2016,Thailand,71,"Pacific, Western Central",1746,0,1746,CBA,0.48,0.28
+"Mycteroperca bonaci_Bermuda_Atlantic, Western Central",Mycteroperca bonaci,Black grouper,Miscellaneous coastal fishes,finfish,2016,Bermuda,31,"Atlantic, Western Central",14,0,14,CBA,0.4,0.2
+"Mycteroperca bonaci_United States of America_Atlantic, Western Central",Mycteroperca bonaci,Black grouper,Miscellaneous coastal fishes,finfish,2016,United States of America,31,"Atlantic, Western Central",57,0,57,CBA,0.4,0.2
+"Oncorhynchus masou_Japan_Pacific, Northwest",Oncorhynchus masou,Masu(=Cherry) salmon,"Salmons, trouts, smelts",finfish,2016,Japan,61,"Pacific, Northwest",900,0,900,CBA,0.74,0.54
+"Oncorhynchus masou_Russian Federation_Pacific, Northwest",Oncorhynchus masou,Masu(=Cherry) salmon,"Salmons, trouts, smelts",finfish,2016,Russian Federation,61,"Pacific, Northwest",9,0,9,CBA,0.74,0.54
+"Oncorhynchus nerka_Canada_Pacific, Northeast",Oncorhynchus nerka,Sockeye(=Red) salmon,"Salmons, trouts, smelts",finfish,2016,Canada,67,"Pacific, Northeast",1550,0,1550,CBA,0.7,0.5
+"Oncorhynchus nerka_Japan_Pacific, Northwest",Oncorhynchus nerka,Sockeye(=Red) salmon,"Salmons, trouts, smelts",finfish,2016,Japan,61,"Pacific, Northwest",2250,0,2250,CBA,0.7,0.5
+"Oncorhynchus nerka_Russian Federation_Pacific, Northwest",Oncorhynchus nerka,Sockeye(=Red) salmon,"Salmons, trouts, smelts",finfish,2016,Russian Federation,61,"Pacific, Northwest",48269,0,48269,CBA,0.7,0.5
+"Oncorhynchus nerka_Russian Federation_Pacific, Northeast",Oncorhynchus nerka,Sockeye(=Red) salmon,"Salmons, trouts, smelts",finfish,2016,Russian Federation,67,"Pacific, Northeast",3,0,3,CBA,0.7,0.5
+"Oncorhynchus nerka_United States of America_Pacific, Northeast",Oncorhynchus nerka,Sockeye(=Red) salmon,"Salmons, trouts, smelts",finfish,2016,United States of America,67,"Pacific, Northeast",130297,0,130297,CBA,0.7,0.5
+Pagellus erythrinus_Algeria_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Algeria,37,Mediterranean and Black Sea,630,0,630,CBA,0.5,0.3
+Pagellus erythrinus_Croatia_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Croatia,37,Mediterranean and Black Sea,57,0,57,CBA,0.5,0.3
+Pagellus erythrinus_Cyprus_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Cyprus,37,Mediterranean and Black Sea,17,0.04,17.04,CBA,0.5,0.3
+Pagellus erythrinus_Egypt_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Egypt,37,Mediterranean and Black Sea,492,0,492,CBA,0.5,0.3
+"Pagellus erythrinus_France_Atlantic, Northeast",Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,France,27,"Atlantic, Northeast",44,0,44,CBA,0.5,0.3
+Pagellus erythrinus_France_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,France,37,Mediterranean and Black Sea,142,0,142,CBA,0.5,0.3
+Pagellus erythrinus_Israel_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Israel,37,Mediterranean and Black Sea,87,0,87,CBA,0.5,0.3
+Pagellus erythrinus_Italy_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Italy,37,Mediterranean and Black Sea,940,0,940,CBA,0.5,0.3
+Pagellus erythrinus_Lebanon_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Lebanon,37,Mediterranean and Black Sea,117,0,117,CBA,0.5,0.3
+Pagellus erythrinus_Libya_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Libya,37,Mediterranean and Black Sea,3900,0,3900,CBA,0.5,0.3
+Pagellus erythrinus_Malta_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Malta,37,Mediterranean and Black Sea,16,0,16,CBA,0.5,0.3
+"Pagellus erythrinus_Morocco_Atlantic, Eastern Central",Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Morocco,34,"Atlantic, Eastern Central",981,0,981,CBA,0.5,0.3
+Pagellus erythrinus_Morocco_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Morocco,37,Mediterranean and Black Sea,330,0,330,CBA,0.5,0.3
+"Pagellus erythrinus_Netherlands_Atlantic, Eastern Central",Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Netherlands,34,"Atlantic, Eastern Central",14,0,14,CBA,0.5,0.3
+"Pagellus erythrinus_Portugal_Atlantic, Northeast",Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Portugal,27,"Atlantic, Northeast",85,0,85,CBA,0.5,0.3
+Pagellus erythrinus_Slovenia_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Slovenia,37,Mediterranean and Black Sea,5,0,5,CBA,0.5,0.3
+"Pagellus erythrinus_Spain_Atlantic, Northeast",Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Spain,27,"Atlantic, Northeast",273,0,273,CBA,0.5,0.3
+"Pagellus erythrinus_Spain_Atlantic, Eastern Central",Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Spain,34,"Atlantic, Eastern Central",250,0,250,CBA,0.5,0.3
+Pagellus erythrinus_Spain_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Spain,37,Mediterranean and Black Sea,973,0,973,CBA,0.5,0.3
+Pagellus erythrinus_Tunisia_Mediterranean and Black Sea,Pagellus erythrinus,Common pandora,Miscellaneous coastal fishes,finfish,2016,Tunisia,37,Mediterranean and Black Sea,4548,0,4548,CBA,0.5,0.3
+Platichthys flesus_Albania_Mediterranean and Black Sea,Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Albania,37,Mediterranean and Black Sea,13,0,13,CBA,0.42,0.22
+"Platichthys flesus_Belgium_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Belgium,27,"Atlantic, Northeast",218,0,218,CBA,0.42,0.22
+"Platichthys flesus_Denmark_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Denmark,27,"Atlantic, Northeast",911,0,911,CBA,0.42,0.22
+"Platichthys flesus_Estonia_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Estonia,27,"Atlantic, Northeast",201,0,201,CBA,0.42,0.22
+"Platichthys flesus_Finland_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Finland,27,"Atlantic, Northeast",16,0,16,CBA,0.42,0.22
+"Platichthys flesus_France_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,France,27,"Atlantic, Northeast",71,0,71,CBA,0.42,0.22
+"Platichthys flesus_Germany_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Germany,27,"Atlantic, Northeast",1528,0,1528,CBA,0.42,0.22
+"Platichthys flesus_Greenland_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Greenland,27,"Atlantic, Northeast",2,0,2,CBA,0.42,0.22
+"Platichthys flesus_Ireland_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Ireland,27,"Atlantic, Northeast",1,0,1,CBA,0.42,0.22
+Platichthys flesus_Italy_Mediterranean and Black Sea,Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Italy,37,Mediterranean and Black Sea,19,0,19,CBA,0.42,0.22
+"Platichthys flesus_Latvia_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Latvia,27,"Atlantic, Northeast",1924,0,1924,CBA,0.42,0.22
+"Platichthys flesus_Lithuania_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Lithuania,27,"Atlantic, Northeast",303,0,303,CBA,0.42,0.22
+"Platichthys flesus_Netherlands_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Netherlands,27,"Atlantic, Northeast",1282,0,1282,CBA,0.42,0.22
+"Platichthys flesus_Norway_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Norway,27,"Atlantic, Northeast",1,0,1,CBA,0.42,0.22
+"Platichthys flesus_Poland_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Poland,27,"Atlantic, Northeast",15060,0,15060,CBA,0.42,0.22
+"Platichthys flesus_Portugal_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Portugal,27,"Atlantic, Northeast",36,0,36,CBA,0.42,0.22
+"Platichthys flesus_Russian Federation_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Russian Federation,27,"Atlantic, Northeast",1135,0,1135,CBA,0.42,0.22
+Platichthys flesus_Slovenia_Mediterranean and Black Sea,Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Slovenia,37,Mediterranean and Black Sea,3,0,3,CBA,0.42,0.22
+"Platichthys flesus_Spain_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Spain,27,"Atlantic, Northeast",16,0,16,CBA,0.42,0.22
+"Platichthys flesus_Sweden_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Sweden,27,"Atlantic, Northeast",116,0,116,CBA,0.42,0.22
+Platichthys flesus_Turkey_Mediterranean and Black Sea,Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Turkey,37,Mediterranean and Black Sea,9,0,9,CBA,0.42,0.22
+Platichthys flesus_Ukraine_Mediterranean and Black Sea,Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,Ukraine,37,Mediterranean and Black Sea,5,0,5,CBA,0.42,0.22
+"Platichthys flesus_United Kingdom_Atlantic, Northeast",Platichthys flesus,European flounder,"Flounders, halibuts, soles",finfish,2016,United Kingdom,27,"Atlantic, Northeast",115,0,115,CBA,0.42,0.22
+"Pleurogrammus azonus_Japan_Pacific, Northwest",Pleurogrammus azonus,Okhotsk atka mackerel,Miscellaneous coastal fishes,finfish,2016,Japan,61,"Pacific, Northwest",17400,0,17400,CBA,0.42,0.22
+"Pleurogrammus azonus_Korea, Dem. People's Rep_Pacific, Northwest",Pleurogrammus azonus,Okhotsk atka mackerel,Miscellaneous coastal fishes,finfish,2016,"Korea, Dem. People's Rep",61,"Pacific, Northwest",3100,0,3100,CBA,0.42,0.22
+"Pleurogrammus azonus_Korea, Republic of_Pacific, Northwest",Pleurogrammus azonus,Okhotsk atka mackerel,Miscellaneous coastal fishes,finfish,2016,"Korea, Republic of",61,"Pacific, Northwest",3507,0,3507,CBA,0.42,0.22
+"Pleurogrammus azonus_Russian Federation_Pacific, Northwest",Pleurogrammus azonus,Okhotsk atka mackerel,Miscellaneous coastal fishes,finfish,2016,Russian Federation,61,"Pacific, Northwest",23393,0,23393,CBA,0.42,0.22
+"Pollachius pollachius_Belgium_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Belgium,27,"Atlantic, Northeast",63,0,63,CBA,0.53,0.33
+"Pollachius pollachius_Channel Islands_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Channel Islands,27,"Atlantic, Northeast",57,0,57,CBA,0.53,0.33
+"Pollachius pollachius_Denmark_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Denmark,27,"Atlantic, Northeast",278,0,278,CBA,0.53,0.33
+"Pollachius pollachius_Faroe Islands_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Faroe Islands,27,"Atlantic, Northeast",21,0,21,CBA,0.53,0.33
+"Pollachius pollachius_France_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,France,27,"Atlantic, Northeast",2525,0,2525,CBA,0.53,0.33
+"Pollachius pollachius_Germany_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Germany,27,"Atlantic, Northeast",116,0,116,CBA,0.53,0.33
+"Pollachius pollachius_Greenland_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Greenland,27,"Atlantic, Northeast",1,0,1,CBA,0.53,0.33
+"Pollachius pollachius_Ireland_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Ireland,27,"Atlantic, Northeast",1117,0,1117,CBA,0.53,0.33
+"Pollachius pollachius_Isle of Man_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Isle of Man,27,"Atlantic, Northeast",2,0,2,CBA,0.53,0.33
+"Pollachius pollachius_Netherlands_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Netherlands,27,"Atlantic, Northeast",3,0,3,CBA,0.53,0.33
+"Pollachius pollachius_Norway_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Norway,27,"Atlantic, Northeast",1947,0,1947,CBA,0.53,0.33
+"Pollachius pollachius_Poland_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Poland,27,"Atlantic, Northeast",3,0,3,CBA,0.53,0.33
+"Pollachius pollachius_Portugal_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Portugal,27,"Atlantic, Northeast",47,0,47,CBA,0.53,0.33
+"Pollachius pollachius_Spain_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Spain,27,"Atlantic, Northeast",323,0,323,CBA,0.53,0.33
+"Pollachius pollachius_Sweden_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,Sweden,27,"Atlantic, Northeast",84,0,84,CBA,0.53,0.33
+"Pollachius pollachius_United Kingdom_Atlantic, Northeast",Pollachius pollachius,Pollack,"Cods, hakes, haddocks",finfish,2016,United Kingdom,27,"Atlantic, Northeast",2324,0,2324,CBA,0.53,0.33
+Seriola dumerili_Albania_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Albania,37,Mediterranean and Black Sea,7,0,7,CBA,0.64,0.44
+Seriola dumerili_Algeria_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Algeria,37,Mediterranean and Black Sea,152,0,152,CBA,0.64,0.44
+"Seriola dumerili_Bahrain_Indian Ocean, Western",Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Bahrain,51,"Indian Ocean, Western",82,0,82,CBA,0.64,0.44
+"Seriola dumerili_Bermuda_Atlantic, Western Central",Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Bermuda,31,"Atlantic, Western Central",7,0,7,CBA,0.64,0.44
+Seriola dumerili_Croatia_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Croatia,37,Mediterranean and Black Sea,31,0,31,CBA,0.64,0.44
+Seriola dumerili_Cyprus_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Cyprus,37,Mediterranean and Black Sea,6,0,6,CBA,0.64,0.44
+Seriola dumerili_France_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,France,37,Mediterranean and Black Sea,50,0,50,CBA,0.64,0.44
+Seriola dumerili_Greece_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Greece,37,Mediterranean and Black Sea,468,0,468,CBA,0.64,0.44
+Seriola dumerili_Israel_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Israel,37,Mediterranean and Black Sea,40,0,40,CBA,0.64,0.44
+Seriola dumerili_Italy_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Italy,37,Mediterranean and Black Sea,803,0,803,CBA,0.64,0.44
+Seriola dumerili_Lebanon_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Lebanon,37,Mediterranean and Black Sea,95,0,95,CBA,0.64,0.44
+Seriola dumerili_Libya_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Libya,37,Mediterranean and Black Sea,480,0,480,CBA,0.64,0.44
+Seriola dumerili_Malta_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Malta,37,Mediterranean and Black Sea,3,0,3,CBA,0.64,0.44
+"Seriola dumerili_Portugal_Atlantic, Northeast",Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Portugal,27,"Atlantic, Northeast",47,1.47,48.47,CBA,0.64,0.44
+"Seriola dumerili_Spain_Atlantic, Northeast",Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Spain,27,"Atlantic, Northeast",5,0,5,CBA,0.64,0.44
+Seriola dumerili_Spain_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Spain,37,Mediterranean and Black Sea,230,0,230,CBA,0.64,0.44
+Seriola dumerili_Syrian Arab Republic_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Syrian Arab Republic,37,Mediterranean and Black Sea,25,0,25,CBA,0.64,0.44
+"Seriola dumerili_Taiwan Province of China_Pacific, Northwest",Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Taiwan Province of China,61,"Pacific, Northwest",657,0,657,CBA,0.64,0.44
+Seriola dumerili_Tunisia_Mediterranean and Black Sea,Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,Tunisia,37,Mediterranean and Black Sea,157,0,157,CBA,0.64,0.44
+"Seriola dumerili_United States of America_Atlantic, Northwest",Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,United States of America,21,"Atlantic, Northwest",12,0,12,CBA,0.64,0.44
+"Seriola dumerili_United States of America_Atlantic, Western Central",Seriola dumerili,Greater amberjack,Miscellaneous pelagic fishes,finfish,2016,United States of America,31,"Atlantic, Western Central",555,0,555,CBA,0.64,0.44
+"Seriola lalandi_Angola_Atlantic, Southeast",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,Angola,47,"Atlantic, Southeast",795,0,795,CBA,0.67,0.47
+"Seriola lalandi_Argentina_Atlantic, Southwest",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,Argentina,41,"Atlantic, Southwest",5,0,5,CBA,0.67,0.47
+"Seriola lalandi_Australia_Indian Ocean, Eastern",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,Australia,57,"Indian Ocean, Eastern",8,0,8,CBA,0.67,0.47
+"Seriola lalandi_Australia_Pacific, Southwest",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,Australia,81,"Pacific, Southwest",100,0,100,CBA,0.67,0.47
+"Seriola lalandi_Brazil_Atlantic, Southwest",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,Brazil,41,"Atlantic, Southwest",990,0,990,CBA,0.67,0.47
+"Seriola lalandi_South Africa_Atlantic, Southeast",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,South Africa,47,"Atlantic, Southeast",697,0,697,CBA,0.67,0.47
+"Seriola lalandi_South Africa_Indian Ocean, Western",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,South Africa,51,"Indian Ocean, Western",4,0,4,CBA,0.67,0.47
+"Seriola lalandi_United Kingdom_Indian Ocean, Western",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,United Kingdom,51,"Indian Ocean, Western",1,0,1,CBA,0.67,0.47
+"Seriola lalandi_United Kingdom_Indian Ocean, Eastern",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,United Kingdom,57,"Indian Ocean, Eastern",7,0,7,CBA,0.67,0.47
+"Seriola lalandi_United States of America_Pacific, Eastern Central",Seriola lalandi,Yellowtail amberjack,Miscellaneous pelagic fishes,finfish,2016,United States of America,77,"Pacific, Eastern Central",25,0,25,CBA,0.67,0.47
+"Seriola rivoliana_Bermuda_Atlantic, Western Central",Seriola rivoliana,Longfin yellowtail,Miscellaneous pelagic fishes,finfish,2016,Bermuda,31,"Atlantic, Western Central",13,0,13,CBA,0.69,0.49
+"Seriola rivoliana_Spain_Atlantic, Eastern Central",Seriola rivoliana,Longfin yellowtail,Miscellaneous pelagic fishes,finfish,2016,Spain,34,"Atlantic, Eastern Central",20,0,20,CBA,0.69,0.49
+"Seriola rivoliana_United States of America_Atlantic, Western Central",Seriola rivoliana,Longfin yellowtail,Miscellaneous pelagic fishes,finfish,2016,United States of America,31,"Atlantic, Western Central",74,0,74,CBA,0.69,0.49
+"Seriola rivoliana_Venezuela, Boliv Rep of_Atlantic, Western Central",Seriola rivoliana,Longfin yellowtail,Miscellaneous pelagic fishes,finfish,2016,"Venezuela, Boliv Rep of",31,"Atlantic, Western Central",326,0,326,CBA,0.69,0.49
+Siganus rivulatus_Cyprus_Mediterranean and Black Sea,Siganus rivulatus,Marbled spinefoot,Miscellaneous coastal fishes,finfish,2016,Cyprus,37,Mediterranean and Black Sea,17,0.02,17.02,CBA,0.79,0.59
+"Solea senegalensis_France_Atlantic, Northeast",Solea senegalensis,Senegalese sole,"Flounders, halibuts, soles",finfish,2016,France,27,"Atlantic, Northeast",39,260,299,CBA,0.38,0.18
+Solea solea_Albania_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Albania,37,Mediterranean and Black Sea,68,0,68,CBA,0.45,0.25
+Solea solea_Algeria_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Algeria,37,Mediterranean and Black Sea,185,0,185,CBA,0.45,0.25
+"Solea solea_Belgium_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Belgium,27,"Atlantic, Northeast",2570,0,2570,CBA,0.45,0.25
+"Solea solea_Channel Islands_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Channel Islands,27,"Atlantic, Northeast",3,0,3,CBA,0.45,0.25
+Solea solea_Croatia_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Croatia,37,Mediterranean and Black Sea,188,0,188,CBA,0.45,0.25
+"Solea solea_Denmark_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Denmark,27,"Atlantic, Northeast",649,0,649,CBA,0.45,0.25
+Solea solea_Egypt_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Egypt,37,Mediterranean and Black Sea,655,0,655,CBA,0.45,0.25
+"Solea solea_France_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,France,27,"Atlantic, Northeast",5153,0,5153,CBA,0.45,0.25
+Solea solea_France_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,France,37,Mediterranean and Black Sea,115,0,115,CBA,0.45,0.25
+"Solea solea_Germany_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Germany,27,"Atlantic, Northeast",879,0,879,CBA,0.45,0.25
+"Solea solea_Greece_Atlantic, Eastern Central",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Greece,34,"Atlantic, Eastern Central",52,0,52,CBA,0.45,0.25
+Solea solea_Greece_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Greece,37,Mediterranean and Black Sea,587,0,587,CBA,0.45,0.25
+"Solea solea_Ireland_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Ireland,27,"Atlantic, Northeast",202,0,202,CBA,0.45,0.25
+"Solea solea_Italy_Atlantic, Eastern Central",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Italy,34,"Atlantic, Eastern Central",21,0,21,CBA,0.45,0.25
+Solea solea_Italy_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Italy,37,Mediterranean and Black Sea,2353,5,2358,CBA,0.45,0.25
+Solea solea_Libya_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Libya,37,Mediterranean and Black Sea,115,0,115,CBA,0.45,0.25
+"Solea solea_Morocco_Atlantic, Eastern Central",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Morocco,34,"Atlantic, Eastern Central",3535,0,3535,CBA,0.45,0.25
+Solea solea_Morocco_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Morocco,37,Mediterranean and Black Sea,78,0,78,CBA,0.45,0.25
+"Solea solea_Netherlands_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Netherlands,27,"Atlantic, Northeast",9617,0,9617,CBA,0.45,0.25
+"Solea solea_Norway_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Norway,27,"Atlantic, Northeast",2,0,2,CBA,0.45,0.25
+"Solea solea_Portugal_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Portugal,27,"Atlantic, Northeast",442,4.29,446.29,CBA,0.45,0.25
+Solea solea_Slovenia_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Slovenia,37,Mediterranean and Black Sea,11,0,11,CBA,0.45,0.25
+"Solea solea_Spain_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Spain,27,"Atlantic, Northeast",229,0,229,CBA,0.45,0.25
+"Solea solea_Spain_Atlantic, Eastern Central",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Spain,34,"Atlantic, Eastern Central",24,0,24,CBA,0.45,0.25
+Solea solea_Spain_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Spain,37,Mediterranean and Black Sea,118,0,118,CBA,0.45,0.25
+"Solea solea_Sweden_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Sweden,27,"Atlantic, Northeast",15,0,15,CBA,0.45,0.25
+Solea solea_Tunisia_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Tunisia,37,Mediterranean and Black Sea,982,0,982,CBA,0.45,0.25
+Solea solea_Turkey_Mediterranean and Black Sea,Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,Turkey,37,Mediterranean and Black Sea,352,0,352,CBA,0.45,0.25
+"Solea solea_United Kingdom_Atlantic, Northeast",Solea solea,Common sole,"Flounders, halibuts, soles",finfish,2016,United Kingdom,27,"Atlantic, Northeast",1965,0,1965,CBA,0.45,0.25
+"Sparidentex hasta_Bahrain_Indian Ocean, Western",Sparidentex hasta,Sobaity seabream,Miscellaneous coastal fishes,finfish,2016,Bahrain,51,"Indian Ocean, Western",2,3,5,CBA,0.52,0.32
+"Sparidentex hasta_Saudi Arabia_Indian Ocean, Western",Sparidentex hasta,Sobaity seabream,Miscellaneous coastal fishes,finfish,2016,Saudi Arabia,51,"Indian Ocean, Western",100,0,100,CBA,0.52,0.32
+"Thunnus albacares_American Samoa_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,American Samoa,77,"Pacific, Eastern Central",372,0,372,CBA,0.39,0.39
+"Thunnus albacares_Angola_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Angola,47,"Atlantic, Southeast",485,0,485,CBA,0.39,0.39
+"Thunnus albacares_Australia_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Australia,57,"Indian Ocean, Eastern",67,0,67,CBA,0.39,0.39
+"Thunnus albacares_Australia_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Australia,71,"Pacific, Western Central",1766,0,1766,CBA,0.39,0.39
+"Thunnus albacares_Australia_Pacific, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Australia,81,"Pacific, Southwest",732,0,732,CBA,0.39,0.39
+"Thunnus albacares_Barbados_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Barbados,31,"Atlantic, Western Central",324,0,324,CBA,0.39,0.39
+"Thunnus albacares_Belize_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Belize,31,"Atlantic, Western Central",2163,0,2163,CBA,0.39,0.39
+"Thunnus albacares_Belize_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Belize,34,"Atlantic, Eastern Central",3497,0,3497,CBA,0.39,0.39
+"Thunnus albacares_Bermuda_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Bermuda,31,"Atlantic, Western Central",9,0,9,CBA,0.39,0.39
+"Thunnus albacares_Brazil_Atlantic, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Brazil,41,"Atlantic, Southwest",3693,0,3693,CBA,0.39,0.39
+"Thunnus albacares_British Indian Ocean Ter_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,British Indian Ocean Ter,51,"Indian Ocean, Western",2,0,2,CBA,0.39,0.39
+"Thunnus albacares_British Virgin Islands_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,British Virgin Islands,31,"Atlantic, Western Central",5,0,5,CBA,0.39,0.39
+"Thunnus albacares_Brunei Darussalam_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Brunei Darussalam,71,"Pacific, Western Central",57,0,57,CBA,0.39,0.39
+"Thunnus albacares_Cabo Verde_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Cabo Verde,34,"Atlantic, Eastern Central",4933,0,4933,CBA,0.39,0.39
+"Thunnus albacares_Canada_Atlantic, Northwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Canada,21,"Atlantic, Northwest",20,0,20,CBA,0.39,0.39
+"Thunnus albacares_Chile_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Chile,87,"Pacific, Southeast",29,0,29,CBA,0.39,0.39
+"Thunnus albacares_China_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,31,"Atlantic, Western Central",13,0,13,CBA,0.39,0.39
+"Thunnus albacares_China_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,34,"Atlantic, Eastern Central",286,0,286,CBA,0.39,0.39
+"Thunnus albacares_China_Atlantic, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,41,"Atlantic, Southwest",94,0,94,CBA,0.39,0.39
+"Thunnus albacares_China_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,47,"Atlantic, Southeast",74,0,74,CBA,0.39,0.39
+"Thunnus albacares_China_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,51,"Indian Ocean, Western",1744,0,1744,CBA,0.39,0.39
+"Thunnus albacares_China_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,57,"Indian Ocean, Eastern",68,0,68,CBA,0.39,0.39
+"Thunnus albacares_China_Pacific, Northwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,61,"Pacific, Northwest",24,0,24,CBA,0.39,0.39
+"Thunnus albacares_China_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,71,"Pacific, Western Central",6161,0,6161,CBA,0.39,0.39
+"Thunnus albacares_China_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,77,"Pacific, Eastern Central",4633,0,4633,CBA,0.39,0.39
+"Thunnus albacares_China_Pacific, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,81,"Pacific, Southwest",275,0,275,CBA,0.39,0.39
+"Thunnus albacares_China_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,87,"Pacific, Southeast",69,0,69,CBA,0.39,0.39
+"Thunnus albacares_Colombia_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Colombia,77,"Pacific, Eastern Central",4873,0,4873,CBA,0.39,0.39
+"Thunnus albacares_Colombia_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Colombia,87,"Pacific, Southeast",14289,0,14289,CBA,0.39,0.39
+"Thunnus albacares_Comoros_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Comoros,51,"Indian Ocean, Western",5584,0,5584,CBA,0.39,0.39
+"Thunnus albacares_Cook Islands_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Cook Islands,77,"Pacific, Eastern Central",314,0,314,CBA,0.39,0.39
+"Thunnus albacares_C’‚te d'Ivoire_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,C’‚te d'Ivoire,34,"Atlantic, Eastern Central",315,0,315,CBA,0.39,0.39
+"Thunnus albacares_Cura’_ao_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Cura’_ao,34,"Atlantic, Eastern Central",8012,0,8012,CBA,0.39,0.39
+"Thunnus albacares_Dominica_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Dominica,31,"Atlantic, Western Central",179,0,179,CBA,0.39,0.39
+"Thunnus albacares_Dominican Republic_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Dominican Republic,31,"Atlantic, Western Central",350,0,350,CBA,0.39,0.39
+"Thunnus albacares_Ecuador_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Ecuador,71,"Pacific, Western Central",514,0,514,CBA,0.39,0.39
+"Thunnus albacares_Ecuador_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Ecuador,77,"Pacific, Eastern Central",10564,0,10564,CBA,0.39,0.39
+"Thunnus albacares_Ecuador_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Ecuador,87,"Pacific, Southeast",45130,0,45130,CBA,0.39,0.39
+"Thunnus albacares_Egypt_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Egypt,51,"Indian Ocean, Western",15,0,15,CBA,0.39,0.39
+"Thunnus albacares_El Salvador_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,El Salvador,31,"Atlantic, Western Central",381,0,381,CBA,0.39,0.39
+"Thunnus albacares_El Salvador_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,El Salvador,34,"Atlantic, Eastern Central",8252,0,8252,CBA,0.39,0.39
+"Thunnus albacares_El Salvador_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,El Salvador,71,"Pacific, Western Central",257,0,257,CBA,0.39,0.39
+"Thunnus albacares_El Salvador_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,El Salvador,77,"Pacific, Eastern Central",420,0,420,CBA,0.39,0.39
+"Thunnus albacares_El Salvador_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,El Salvador,87,"Pacific, Southeast",80,0,80,CBA,0.39,0.39
+"Thunnus albacares_Equatorial Guinea_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Equatorial Guinea,34,"Atlantic, Eastern Central",500,0,500,CBA,0.39,0.39
+"Thunnus albacares_Fiji_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Fiji,71,"Pacific, Western Central",4701,0,4701,CBA,0.39,0.39
+"Thunnus albacares_France_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,France,31,"Atlantic, Western Central",403,0,403,CBA,0.39,0.39
+"Thunnus albacares_France_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,France,34,"Atlantic, Eastern Central",16996,0,16996,CBA,0.39,0.39
+"Thunnus albacares_France_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,France,47,"Atlantic, Southeast",9202,0,9202,CBA,0.39,0.39
+"Thunnus albacares_France_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,France,51,"Indian Ocean, Western",33807,0,33807,CBA,0.39,0.39
+"Thunnus albacares_French Polynesia_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,French Polynesia,77,"Pacific, Eastern Central",1864,0,1864,CBA,0.39,0.39
+"Thunnus albacares_Gabon_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Gabon,34,"Atlantic, Eastern Central",1,0,1,CBA,0.39,0.39
+"Thunnus albacares_Gambia_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Gambia,34,"Atlantic, Eastern Central",46,0,46,CBA,0.39,0.39
+"Thunnus albacares_Ghana_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Ghana,34,"Atlantic, Eastern Central",18970,0,18970,CBA,0.39,0.39
+"Thunnus albacares_Grenada_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Grenada,31,"Atlantic, Western Central",1200,0,1200,CBA,0.39,0.39
+"Thunnus albacares_Guam_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Guam,71,"Pacific, Western Central",58,0,58,CBA,0.39,0.39
+"Thunnus albacares_Guatemala_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Guatemala,31,"Atlantic, Western Central",18,0,18,CBA,0.39,0.39
+"Thunnus albacares_Guatemala_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Guatemala,34,"Atlantic, Eastern Central",2703,0,2703,CBA,0.39,0.39
+"Thunnus albacares_Guatemala_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Guatemala,77,"Pacific, Eastern Central",1246,0,1246,CBA,0.39,0.39
+"Thunnus albacares_Guatemala_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Guatemala,87,"Pacific, Southeast",600,0,600,CBA,0.39,0.39
+"Thunnus albacares_Guinea_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Guinea,34,"Atlantic, Eastern Central",1230,0,1230,CBA,0.39,0.39
+"Thunnus albacares_India_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,India,51,"Indian Ocean, Western",10584,0,10584,CBA,0.39,0.39
+"Thunnus albacares_India_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,India,57,"Indian Ocean, Eastern",6208,0,6208,CBA,0.39,0.39
+"Thunnus albacares_Indonesia_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Indonesia,57,"Indian Ocean, Eastern",36789,0,36789,CBA,0.39,0.39
+"Thunnus albacares_Indonesia_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Indonesia,71,"Pacific, Western Central",160418,0,160418,CBA,0.39,0.39
+"Thunnus albacares_Iran (Islamic Rep. of)_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Iran (Islamic Rep. of),51,"Indian Ocean, Western",45110,0,45110,CBA,0.39,0.39
+"Thunnus albacares_Italy_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Italy,51,"Indian Ocean, Western",1782,0,1782,CBA,0.39,0.39
+"Thunnus albacares_Japan_Atlantic, Northwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,21,"Atlantic, Northwest",8,0,8,CBA,0.39,0.39
+"Thunnus albacares_Japan_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,31,"Atlantic, Western Central",457,0,457,CBA,0.39,0.39
+"Thunnus albacares_Japan_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,34,"Atlantic, Eastern Central",2210,0,2210,CBA,0.39,0.39
+"Thunnus albacares_Japan_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,47,"Atlantic, Southeast",707,0,707,CBA,0.39,0.39
+"Thunnus albacares_Japan_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,51,"Indian Ocean, Western",2984,0,2984,CBA,0.39,0.39
+"Thunnus albacares_Japan_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,57,"Indian Ocean, Eastern",415,0,415,CBA,0.39,0.39
+"Thunnus albacares_Japan_Pacific, Northwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,61,"Pacific, Northwest",11000,0,11000,CBA,0.39,0.39
+"Thunnus albacares_Japan_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,71,"Pacific, Western Central",40200,0,40200,CBA,0.39,0.39
+"Thunnus albacares_Japan_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,77,"Pacific, Eastern Central",1579,0,1579,CBA,0.39,0.39
+"Thunnus albacares_Japan_Pacific, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,81,"Pacific, Southwest",320,0,320,CBA,0.39,0.39
+"Thunnus albacares_Japan_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,87,"Pacific, Southeast",1236,0,1236,CBA,0.39,0.39
+"Thunnus albacares_Jordan_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Jordan,51,"Indian Ocean, Western",22,0,22,CBA,0.39,0.39
+"Thunnus albacares_Kenya_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Kenya,51,"Indian Ocean, Western",108,0,108,CBA,0.39,0.39
+"Thunnus albacares_Kiribati_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Kiribati,71,"Pacific, Western Central",26515,0,26515,CBA,0.39,0.39
+"Thunnus albacares_Korea, Republic of_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",31,"Atlantic, Western Central",12,0,12,CBA,0.39,0.39
+"Thunnus albacares_Korea, Republic of_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",34,"Atlantic, Eastern Central",271,0,271,CBA,0.39,0.39
+"Thunnus albacares_Korea, Republic of_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",47,"Atlantic, Southeast",127,0,127,CBA,0.39,0.39
+"Thunnus albacares_Korea, Republic of_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",51,"Indian Ocean, Western",11623,0,11623,CBA,0.39,0.39
+"Thunnus albacares_Korea, Republic of_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",71,"Pacific, Western Central",60080,0,60080,CBA,0.39,0.39
+"Thunnus albacares_Korea, Republic of_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",77,"Pacific, Eastern Central",1955,0,1955,CBA,0.39,0.39
+"Thunnus albacares_Korea, Republic of_Pacific, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",81,"Pacific, Southwest",262,0,262,CBA,0.39,0.39
+"Thunnus albacares_Korea, Republic of_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",87,"Pacific, Southeast",16,0,16,CBA,0.39,0.39
+"Thunnus albacares_Liberia_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Liberia,34,"Atlantic, Eastern Central",19,0,19,CBA,0.39,0.39
+"Thunnus albacares_Madagascar_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Madagascar,51,"Indian Ocean, Western",736,0,736,CBA,0.39,0.39
+"Thunnus albacares_Malaysia_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Malaysia,57,"Indian Ocean, Eastern",156,0,156,CBA,0.39,0.39
+"Thunnus albacares_Malaysia_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Malaysia,71,"Pacific, Western Central",1700,0,1700,CBA,0.39,0.39
+"Thunnus albacares_Maldives_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Maldives,51,"Indian Ocean, Western",53705,0,53705,CBA,0.39,0.39
+"Thunnus albacares_Marshall Islands_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Marshall Islands,71,"Pacific, Western Central",8812,0,8812,CBA,0.39,0.39
+"Thunnus albacares_Martinique_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Martinique,31,"Atlantic, Western Central",51,0,51,CBA,0.39,0.39
+"Thunnus albacares_Mauritius_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mauritius,51,"Indian Ocean, Western",7554,0,7554,CBA,0.39,0.39
+"Thunnus albacares_Mayotte_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mayotte,51,"Indian Ocean, Western",190,0,190,CBA,0.39,0.39
+"Thunnus albacares_Mexico_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mexico,31,"Atlantic, Western Central",1574,0,1574,CBA,0.39,0.39
+"Thunnus albacares_Mexico_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mexico,77,"Pacific, Eastern Central",96048,0,96048,CBA,0.39,0.39
+"Thunnus albacares_Mexico_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mexico,87,"Pacific, Southeast",1052,0,1052,CBA,0.39,0.39
+"Thunnus albacares_Micronesia, Fed.States of_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Micronesia, Fed.States of",71,"Pacific, Western Central",14208,0,14208,CBA,0.39,0.39
+"Thunnus albacares_Morocco_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Morocco,34,"Atlantic, Eastern Central",115,0,115,CBA,0.39,0.39
+"Thunnus albacares_Mozambique_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mozambique,51,"Indian Ocean, Western",174,0,174,CBA,0.39,0.39
+"Thunnus albacares_Namibia_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Namibia,47,"Atlantic, Southeast",55,0,55,CBA,0.39,0.39
+"Thunnus albacares_Nauru_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Nauru,71,"Pacific, Western Central",250,0,250,CBA,0.39,0.39
+"Thunnus albacares_New Caledonia_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,New Caledonia,71,"Pacific, Western Central",482,0,482,CBA,0.39,0.39
+"Thunnus albacares_New Zealand_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,New Zealand,71,"Pacific, Western Central",87,0,87,CBA,0.39,0.39
+"Thunnus albacares_New Zealand_Pacific, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,New Zealand,81,"Pacific, Southwest",57,0,57,CBA,0.39,0.39
+"Thunnus albacares_Nicaragua_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Nicaragua,77,"Pacific, Eastern Central",6718,0,6718,CBA,0.39,0.39
+"Thunnus albacares_Nicaragua_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Nicaragua,87,"Pacific, Southeast",4775,0,4775,CBA,0.39,0.39
+"Thunnus albacares_Northern Mariana Is._Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Northern Mariana Is.,71,"Pacific, Western Central",5,0,5,CBA,0.39,0.39
+"Thunnus albacares_Oman_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Oman,51,"Indian Ocean, Western",20859,0,20859,CBA,0.39,0.39
+"Thunnus albacares_Other nei_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Other nei,51,"Indian Ocean, Western",686,0,686,CBA,0.39,0.39
+"Thunnus albacares_Other nei_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Other nei,57,"Indian Ocean, Eastern",7,0,7,CBA,0.39,0.39
+"Thunnus albacares_Pakistan_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Pakistan,51,"Indian Ocean, Western",23737,0,23737,CBA,0.39,0.39
+"Thunnus albacares_Panama_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Panama,31,"Atlantic, Western Central",25,0,25,CBA,0.39,0.39
+"Thunnus albacares_Panama_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Panama,34,"Atlantic, Eastern Central",4305,0,4305,CBA,0.39,0.39
+"Thunnus albacares_Panama_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Panama,77,"Pacific, Eastern Central",3447,0,3447,CBA,0.39,0.39
+"Thunnus albacares_Panama_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Panama,87,"Pacific, Southeast",19506,0,19506,CBA,0.39,0.39
+"Thunnus albacares_Papua New Guinea_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Papua New Guinea,71,"Pacific, Western Central",82094,0,82094,CBA,0.39,0.39
+"Thunnus albacares_Peru_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Peru,87,"Pacific, Southeast",14570,0,14570,CBA,0.39,0.39
+"Thunnus albacares_Philippines_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Philippines,71,"Pacific, Western Central",83847,0,83847,CBA,0.39,0.39
+"Thunnus albacares_Portugal_Atlantic, Northeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,27,"Atlantic, Northeast",7,0,7,CBA,0.39,0.39
+"Thunnus albacares_Portugal_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,34,"Atlantic, Eastern Central",108,0,108,CBA,0.39,0.39
+"Thunnus albacares_Portugal_Atlantic, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,41,"Atlantic, Southwest",23,0,23,CBA,0.39,0.39
+"Thunnus albacares_Portugal_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,47,"Atlantic, Southeast",16,0,16,CBA,0.39,0.39
+"Thunnus albacares_Portugal_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,51,"Indian Ocean, Western",108,0,108,CBA,0.39,0.39
+"Thunnus albacares_Portugal_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,57,"Indian Ocean, Eastern",18,0,18,CBA,0.39,0.39
+"Thunnus albacares_Portugal_Pacific, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,81,"Pacific, Southwest",6,0,6,CBA,0.39,0.39
+"Thunnus albacares_Portugal_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,87,"Pacific, Southeast",1,0,1,CBA,0.39,0.39
+"Thunnus albacares_Puerto Rico_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Puerto Rico,31,"Atlantic, Western Central",2,0,2,CBA,0.39,0.39
+"Thunnus albacares_R’©union_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,R’©union,51,"Indian Ocean, Western",798,0,798,CBA,0.39,0.39
+"Thunnus albacares_Saint Helena_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Saint Helena,47,"Atlantic, Southeast",181,0,181,CBA,0.39,0.39
+"Thunnus albacares_Saint Kitts and Nevis_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Saint Kitts and Nevis,31,"Atlantic, Western Central",5,0,5,CBA,0.39,0.39
+"Thunnus albacares_Saint Lucia_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Saint Lucia,31,"Atlantic, Western Central",191,0,191,CBA,0.39,0.39
+"Thunnus albacares_Saint Vincent/Grenadines_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Saint Vincent/Grenadines,31,"Atlantic, Western Central",434,0,434,CBA,0.39,0.39
+"Thunnus albacares_Samoa_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Samoa,77,"Pacific, Eastern Central",239,0,239,CBA,0.39,0.39
+"Thunnus albacares_Sao Tome and Principe_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Sao Tome and Principe,34,"Atlantic, Eastern Central",301,0,301,CBA,0.39,0.39
+"Thunnus albacares_Senegal_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Senegal,34,"Atlantic, Eastern Central",6850,0,6850,CBA,0.39,0.39
+"Thunnus albacares_Seychelles_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Seychelles,51,"Indian Ocean, Western",43234,0,43234,CBA,0.39,0.39
+"Thunnus albacares_Seychelles_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Seychelles,57,"Indian Ocean, Eastern",27,0,27,CBA,0.39,0.39
+"Thunnus albacares_Solomon Islands_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Solomon Islands,71,"Pacific, Western Central",22186,0,22186,CBA,0.39,0.39
+"Thunnus albacares_South Africa_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,South Africa,47,"Atlantic, Southeast",953,0,953,CBA,0.39,0.39
+"Thunnus albacares_South Africa_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,South Africa,51,"Indian Ocean, Western",183,0,183,CBA,0.39,0.39
+"Thunnus albacares_Spain_Atlantic, Northeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,27,"Atlantic, Northeast",7,0,7,CBA,0.39,0.39
+"Thunnus albacares_Spain_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,31,"Atlantic, Western Central",41,0,41,CBA,0.39,0.39
+"Thunnus albacares_Spain_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,34,"Atlantic, Eastern Central",14273,0,14273,CBA,0.39,0.39
+"Thunnus albacares_Spain_Atlantic, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,41,"Atlantic, Southwest",38,0,38,CBA,0.39,0.39
+"Thunnus albacares_Spain_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,47,"Atlantic, Southeast",4986,0,4986,CBA,0.39,0.39
+"Thunnus albacares_Spain_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,51,"Indian Ocean, Western",51623,0,51623,CBA,0.39,0.39
+"Thunnus albacares_Spain_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,57,"Indian Ocean, Eastern",37,0,37,CBA,0.39,0.39
+"Thunnus albacares_Spain_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,71,"Pacific, Western Central",576,0,576,CBA,0.39,0.39
+"Thunnus albacares_Spain_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,77,"Pacific, Eastern Central",1494,0,1494,CBA,0.39,0.39
+"Thunnus albacares_Spain_Pacific, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,81,"Pacific, Southwest",22,0,22,CBA,0.39,0.39
+"Thunnus albacares_Spain_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,87,"Pacific, Southeast",60,0,60,CBA,0.39,0.39
+"Thunnus albacares_Sri Lanka_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Sri Lanka,57,"Indian Ocean, Eastern",33727,0,33727,CBA,0.39,0.39
+"Thunnus albacares_Suriname_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Suriname,31,"Atlantic, Western Central",2384,0,2384,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Atlantic, Northwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,21,"Atlantic, Northwest",1,0,1,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,31,"Atlantic, Western Central",67,0,67,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Atlantic, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,34,"Atlantic, Eastern Central",616,0,616,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Atlantic, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,41,"Atlantic, Southwest",88,0,88,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Atlantic, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,47,"Atlantic, Southeast",170,0,170,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,51,"Indian Ocean, Western",10601,0,10601,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,57,"Indian Ocean, Eastern",6357,0,6357,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Pacific, Northwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,61,"Pacific, Northwest",11704,0,11704,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,71,"Pacific, Western Central",37823,0,37823,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,77,"Pacific, Eastern Central",7285,0,7285,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Pacific, Southwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,81,"Pacific, Southwest",353,0,353,CBA,0.39,0.39
+"Thunnus albacares_Taiwan Province of China_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,87,"Pacific, Southeast",25,0,25,CBA,0.39,0.39
+"Thunnus albacares_Tanzania, United Rep. of_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Tanzania, United Rep. of",51,"Indian Ocean, Western",4013,0,4013,CBA,0.39,0.39
+"Thunnus albacares_Timor-Leste_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Timor-Leste,57,"Indian Ocean, Eastern",3,0,3,CBA,0.39,0.39
+"Thunnus albacares_Tokelau_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Tokelau,77,"Pacific, Eastern Central",106,0,106,CBA,0.39,0.39
+"Thunnus albacares_Tonga_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Tonga,77,"Pacific, Eastern Central",322,0,322,CBA,0.39,0.39
+"Thunnus albacares_Trinidad and Tobago_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Trinidad and Tobago,31,"Atlantic, Western Central",1057,0,1057,CBA,0.39,0.39
+"Thunnus albacares_Tuvalu_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Tuvalu,71,"Pacific, Western Central",769,0,769,CBA,0.39,0.39
+"Thunnus albacares_United Kingdom_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,United Kingdom,51,"Indian Ocean, Western",28,0,28,CBA,0.39,0.39
+"Thunnus albacares_United Kingdom_Indian Ocean, Eastern",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,United Kingdom,57,"Indian Ocean, Eastern",14,0,14,CBA,0.39,0.39
+"Thunnus albacares_United States of America_Atlantic, Northwest",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,United States of America,21,"Atlantic, Northwest",445,0,445,CBA,0.39,0.39
+"Thunnus albacares_United States of America_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,United States of America,31,"Atlantic, Western Central",780,0,780,CBA,0.39,0.39
+"Thunnus albacares_United States of America_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,United States of America,71,"Pacific, Western Central",8428,0,8428,CBA,0.39,0.39
+"Thunnus albacares_United States of America_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,United States of America,77,"Pacific, Eastern Central",10922,0,10922,CBA,0.39,0.39
+"Thunnus albacares_US Virgin Islands_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,US Virgin Islands,31,"Atlantic, Western Central",5,0,5,CBA,0.39,0.39
+"Thunnus albacares_Vanuatu_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Vanuatu,71,"Pacific, Western Central",1707,0,1707,CBA,0.39,0.39
+"Thunnus albacares_Vanuatu_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Vanuatu,77,"Pacific, Eastern Central",609,0,609,CBA,0.39,0.39
+"Thunnus albacares_Vanuatu_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Vanuatu,87,"Pacific, Southeast",72,0,72,CBA,0.39,0.39
+"Thunnus albacares_Venezuela, Boliv Rep of_Atlantic, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Venezuela, Boliv Rep of",31,"Atlantic, Western Central",4198,0,4198,CBA,0.39,0.39
+"Thunnus albacares_Venezuela, Boliv Rep of_Pacific, Eastern Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Venezuela, Boliv Rep of",77,"Pacific, Eastern Central",19480,0,19480,CBA,0.39,0.39
+"Thunnus albacares_Venezuela, Boliv Rep of_Pacific, Southeast",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Venezuela, Boliv Rep of",87,"Pacific, Southeast",4591,0,4591,CBA,0.39,0.39
+"Thunnus albacares_Viet Nam_Pacific, Western Central",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Viet Nam,71,"Pacific, Western Central",24389,0,24389,CBA,0.39,0.39
+"Thunnus albacares_Yemen_Indian Ocean, Western",Thunnus albacares,Yellowfin tuna,"Tunas, bonitos, billfishes",finfish,2016,Yemen,51,"Indian Ocean, Western",21100,0,21100,CBA,0.39,0.39
+"Thunnus maccoyii_Australia_Indian Ocean, Eastern",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Australia,57,"Indian Ocean, Eastern",5381,8895,14276,CBA,0.24,0.24
+"Thunnus maccoyii_Australia_Pacific, Southwest",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Australia,81,"Pacific, Southwest",581,0,581,CBA,0.24,0.24
+"Thunnus maccoyii_Indonesia_Indian Ocean, Eastern",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Indonesia,57,"Indian Ocean, Eastern",601,0,601,CBA,0.24,0.24
+"Thunnus maccoyii_Japan_Atlantic, Southeast",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,47,"Atlantic, Southeast",1732,0,1732,CBA,0.24,0.24
+"Thunnus maccoyii_Japan_Indian Ocean, Western",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,51,"Indian Ocean, Western",160,0,160,CBA,0.24,0.24
+"Thunnus maccoyii_Japan_Indian Ocean, Eastern",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,57,"Indian Ocean, Eastern",1198,0,1198,CBA,0.24,0.24
+"Thunnus maccoyii_Japan_Pacific, Southwest",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,81,"Pacific, Southwest",1631,0,1631,CBA,0.24,0.24
+"Thunnus maccoyii_Korea, Republic of_Atlantic, Southeast",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",47,"Atlantic, Southeast",687,0,687,CBA,0.24,0.24
+"Thunnus maccoyii_Korea, Republic of_Indian Ocean, Western",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",51,"Indian Ocean, Western",314,0,314,CBA,0.24,0.24
+"Thunnus maccoyii_Korea, Republic of_Indian Ocean, Eastern",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",57,"Indian Ocean, Eastern",120,0,120,CBA,0.24,0.24
+"Thunnus maccoyii_New Zealand_Pacific, Southwest",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,New Zealand,81,"Pacific, Southwest",951,0,951,CBA,0.24,0.24
+"Thunnus maccoyii_South Africa_Atlantic, Southeast",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,South Africa,47,"Atlantic, Southeast",32,0,32,CBA,0.24,0.24
+"Thunnus maccoyii_South Africa_Indian Ocean, Western",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,South Africa,51,"Indian Ocean, Western",6,0,6,CBA,0.24,0.24
+"Thunnus maccoyii_Taiwan Province of China_Atlantic, Southeast",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,47,"Atlantic, Southeast",9,0,9,CBA,0.24,0.24
+"Thunnus maccoyii_Taiwan Province of China_Indian Ocean, Western",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,51,"Indian Ocean, Western",1012,0,1012,CBA,0.24,0.24
+"Thunnus maccoyii_Taiwan Province of China_Pacific, Southwest",Thunnus maccoyii,Southern bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,81,"Pacific, Southwest",2,0,2,CBA,0.24,0.24
+"Thunnus orientalis_Cook Islands_Pacific, Eastern Central",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Cook Islands,77,"Pacific, Eastern Central",1,0,1,CBA,0.26,0.26
+"Thunnus orientalis_Ecuador_Pacific, Eastern Central",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Ecuador,77,"Pacific, Eastern Central",2,0,2,CBA,0.26,0.26
+"Thunnus orientalis_Japan_Pacific, Northwest",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,61,"Pacific, Northwest",7300,13413,20713,CBA,0.26,0.26
+"Thunnus orientalis_Japan_Pacific, Western Central",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,71,"Pacific, Western Central",7,0,7,CBA,0.26,0.26
+"Thunnus orientalis_Japan_Pacific, Southwest",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,81,"Pacific, Southwest",7,0,7,CBA,0.26,0.26
+"Thunnus orientalis_Mexico_Pacific, Eastern Central",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mexico,77,"Pacific, Eastern Central",2816,8755.81181,11571.81181,CBA,0.26,0.26
+"Thunnus orientalis_Micronesia, Fed.States of_Pacific, Western Central",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Micronesia, Fed.States of",71,"Pacific, Western Central",1,0,1,CBA,0.26,0.26
+"Thunnus orientalis_New Zealand_Pacific, Southwest",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,New Zealand,81,"Pacific, Southwest",18,0,18,CBA,0.26,0.26
+"Thunnus orientalis_Taiwan Province of China_Pacific, Northwest",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Taiwan Province of China,61,"Pacific, Northwest",454,0,454,CBA,0.26,0.26
+"Thunnus orientalis_United States of America_Pacific, Eastern Central",Thunnus orientalis,Pacific bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,United States of America,77,"Pacific, Eastern Central",355,0,355,CBA,0.26,0.26
+Thunnus thynnus_Albania_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Albania,37,Mediterranean and Black Sea,47,0,47,CBA,0.14,0.14
+Thunnus thynnus_Algeria_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Algeria,37,Mediterranean and Black Sea,448,0,448,CBA,0.14,0.14
+"Thunnus thynnus_Canada_Atlantic, Northwest",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Canada,21,"Atlantic, Northwest",487,0,487,CBA,0.14,0.14
+"Thunnus thynnus_China_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,China,27,"Atlantic, Northeast",54,0,54,CBA,0.14,0.14
+Thunnus thynnus_Croatia_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Croatia,37,Mediterranean and Black Sea,519,1470,1989,CBA,0.14,0.14
+Thunnus thynnus_Cyprus_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Cyprus,37,Mediterranean and Black Sea,59,0,59,CBA,0.14,0.14
+Thunnus thynnus_Egypt_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Egypt,37,Mediterranean and Black Sea,115,0,115,CBA,0.14,0.14
+"Thunnus thynnus_France_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,France,27,"Atlantic, Northeast",343,0,343,CBA,0.14,0.14
+Thunnus thynnus_France_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,France,37,Mediterranean and Black Sea,3054,0,3054,CBA,0.14,0.14
+Thunnus thynnus_Greece_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Greece,37,Mediterranean and Black Sea,218,0,218,CBA,0.14,0.14
+"Thunnus thynnus_Iceland_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Iceland,27,"Atlantic, Northeast",6,0,6,CBA,0.14,0.14
+"Thunnus thynnus_Ireland_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Ireland,27,"Atlantic, Northeast",34,0,34,CBA,0.14,0.14
+Thunnus thynnus_Italy_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Italy,37,Mediterranean and Black Sea,2488,0,2488,CBA,0.14,0.14
+"Thunnus thynnus_Japan_Atlantic, Northwest",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,21,"Atlantic, Northwest",345,0,345,CBA,0.14,0.14
+"Thunnus thynnus_Japan_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Japan,27,"Atlantic, Northeast",1578,0,1578,CBA,0.14,0.14
+"Thunnus thynnus_Korea, Republic of_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",27,"Atlantic, Northeast",139,0,139,CBA,0.14,0.14
+"Thunnus thynnus_Korea, Republic of_Atlantic, Eastern Central",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,"Korea, Republic of",34,"Atlantic, Eastern Central",22,0,22,CBA,0.14,0.14
+Thunnus thynnus_Libya_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Libya,37,Mediterranean and Black Sea,1368,0,1368,CBA,0.14,0.14
+Thunnus thynnus_Malta_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Malta,37,Mediterranean and Black Sea,212,3709,3921,CBA,0.14,0.14
+"Thunnus thynnus_Mauritania_Atlantic, Eastern Central",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mauritania,34,"Atlantic, Eastern Central",227,0,227,CBA,0.14,0.14
+"Thunnus thynnus_Mexico_Atlantic, Western Central",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Mexico,31,"Atlantic, Western Central",74,0,74,CBA,0.14,0.14
+"Thunnus thynnus_Morocco_Atlantic, Eastern Central",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Morocco,34,"Atlantic, Eastern Central",1433,0,1433,CBA,0.14,0.14
+Thunnus thynnus_Morocco_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Morocco,37,Mediterranean and Black Sea,350,0,350,CBA,0.14,0.14
+"Thunnus thynnus_Netherlands_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Netherlands,27,"Atlantic, Northeast",2,0,2,CBA,0.14,0.14
+"Thunnus thynnus_Norway_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Norway,27,"Atlantic, Northeast",44,0,44,CBA,0.14,0.14
+"Thunnus thynnus_Portugal_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,27,"Atlantic, Northeast",320,0,320,CBA,0.14,0.14
+"Thunnus thynnus_Portugal_Atlantic, Eastern Central",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Portugal,34,"Atlantic, Eastern Central",7,0,7,CBA,0.14,0.14
+"Thunnus thynnus_Spain_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,27,"Atlantic, Northeast",2814,0,2814,CBA,0.14,0.14
+"Thunnus thynnus_Spain_Atlantic, Eastern Central",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,34,"Atlantic, Eastern Central",140,0,140,CBA,0.14,0.14
+Thunnus thynnus_Spain_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Spain,37,Mediterranean and Black Sea,1479,910,2389,CBA,0.14,0.14
+Thunnus thynnus_Syrian Arab Republic_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Syrian Arab Republic,37,Mediterranean and Black Sea,47,0,47,CBA,0.14,0.14
+Thunnus thynnus_Tunisia_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Tunisia,37,Mediterranean and Black Sea,1461,50,1511,CBA,0.14,0.14
+Thunnus thynnus_Turkey_Mediterranean and Black Sea,Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,Turkey,37,Mediterranean and Black Sea,1324,770,2094,CBA,0.14,0.14
+"Thunnus thynnus_United Kingdom_Atlantic, Northeast",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,United Kingdom,27,"Atlantic, Northeast",3,0,3,CBA,0.14,0.14
+"Thunnus thynnus_United States of America_Atlantic, Northwest",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,United States of America,21,"Atlantic, Northwest",826,0,826,CBA,0.14,0.14
+"Thunnus thynnus_United States of America_Atlantic, Western Central",Thunnus thynnus,Atlantic bluefin tuna,"Tunas, bonitos, billfishes",finfish,2016,United States of America,31,"Atlantic, Western Central",30,0,30,CBA,0.14,0.14
+"Trachinotus carolinus_United States of America_Atlantic, Northwest",Trachinotus carolinus,Florida pompano,Miscellaneous pelagic fishes,finfish,2016,United States of America,21,"Atlantic, Northwest",8,0,8,CBA,0.81,0.61
+"Trachinotus carolinus_United States of America_Atlantic, Western Central",Trachinotus carolinus,Florida pompano,Miscellaneous pelagic fishes,finfish,2016,United States of America,31,"Atlantic, Western Central",167,0,167,CBA,0.81,0.61
+"Trachurus japonicus_China_Pacific, Northwest",Trachurus japonicus,Japanese jack mackerel,Miscellaneous pelagic fishes,finfish,2016,China,61,"Pacific, Northwest",39712,0,39712,CBA,0.49,0.29
+"Trachurus japonicus_Japan_Pacific, Northwest",Trachurus japonicus,Japanese jack mackerel,Miscellaneous pelagic fishes,finfish,2016,Japan,61,"Pacific, Northwest",128700,740,129440,CBA,0.49,0.29
+"Trachurus japonicus_Korea, Republic of_Pacific, Northwest",Trachurus japonicus,Japanese jack mackerel,Miscellaneous pelagic fishes,finfish,2016,"Korea, Republic of",61,"Pacific, Northwest",24411,18,24429,CBA,0.49,0.29
+"Trachurus japonicus_Taiwan Province of China_Pacific, Northwest",Trachurus japonicus,Japanese jack mackerel,Miscellaneous pelagic fishes,finfish,2016,Taiwan Province of China,61,"Pacific, Northwest",7433,0,7433,CBA,0.49,0.29
+"Umbrina cirrosa_Greece_Atlantic, Eastern Central",Umbrina cirrosa,Shi drum,Miscellaneous coastal fishes,finfish,2016,Greece,34,"Atlantic, Eastern Central",110,0,110,CBA,0.62,0.42
+Umbrina cirrosa_Greece_Mediterranean and Black Sea,Umbrina cirrosa,Shi drum,Miscellaneous coastal fishes,finfish,2016,Greece,37,Mediterranean and Black Sea,28,127.6,155.6,CBA,0.62,0.42
+Umbrina cirrosa_Italy_Mediterranean and Black Sea,Umbrina cirrosa,Shi drum,Miscellaneous coastal fishes,finfish,2016,Italy,37,Mediterranean and Black Sea,93,150,243,CBA,0.62,0.42
+Umbrina cirrosa_Lebanon_Mediterranean and Black Sea,Umbrina cirrosa,Shi drum,Miscellaneous coastal fishes,finfish,2016,Lebanon,37,Mediterranean and Black Sea,6,0,6,CBA,0.62,0.42
+Umbrina cirrosa_Tunisia_Mediterranean and Black Sea,Umbrina cirrosa,Shi drum,Miscellaneous coastal fishes,finfish,2016,Tunisia,37,Mediterranean and Black Sea,31,0,31,CBA,0.62,0.42
+Umbrina cirrosa_Turkey_Mediterranean and Black Sea,Umbrina cirrosa,Shi drum,Miscellaneous coastal fishes,finfish,2016,Turkey,37,Mediterranean and Black Sea,31,20,51,CBA,0.62,0.42
+Artemia salina_Russian Federation_Mediterranean and Black Sea,Artemia salina,Brine shrimp,Miscellaneous marine crustaceans,crustacean,2016,Russian Federation,37,Mediterranean and Black Sea,331,0,331,CBA,0.88,0.68
+"Artemia salina_United States of America_Pacific, Northeast",Artemia salina,Brine shrimp,Miscellaneous marine crustaceans,crustacean,2016,United States of America,67,"Pacific, Northeast",27,0,27,CBA,0.88,0.68
+"Artemia salina_United States of America_Pacific, Eastern Central",Artemia salina,Brine shrimp,Miscellaneous marine crustaceans,crustacean,2016,United States of America,77,"Pacific, Eastern Central",300,0,300,CBA,0.88,0.68
+"Carcinus maenas_France_Atlantic, Northeast",Carcinus maenas,Green crab,"Crabs, sea-spiders",crustacean,2016,France,27,"Atlantic, Northeast",138,0,138,CBA,0.82,0.62
+"Carcinus maenas_Ireland_Atlantic, Northeast",Carcinus maenas,Green crab,"Crabs, sea-spiders",crustacean,2016,Ireland,27,"Atlantic, Northeast",1,0,1,CBA,0.82,0.62
+"Carcinus maenas_Netherlands_Atlantic, Northeast",Carcinus maenas,Green crab,"Crabs, sea-spiders",crustacean,2016,Netherlands,27,"Atlantic, Northeast",12,0,12,CBA,0.82,0.62
+"Carcinus maenas_Norway_Atlantic, Northeast",Carcinus maenas,Green crab,"Crabs, sea-spiders",crustacean,2016,Norway,27,"Atlantic, Northeast",5,0,5,CBA,0.82,0.62
+"Carcinus maenas_Portugal_Atlantic, Northeast",Carcinus maenas,Green crab,"Crabs, sea-spiders",crustacean,2016,Portugal,27,"Atlantic, Northeast",41,0,41,CBA,0.82,0.62
+"Carcinus maenas_Spain_Atlantic, Northeast",Carcinus maenas,Green crab,"Crabs, sea-spiders",crustacean,2016,Spain,27,"Atlantic, Northeast",19,0,19,CBA,0.82,0.62
+"Carcinus maenas_United Kingdom_Atlantic, Northeast",Carcinus maenas,Green crab,"Crabs, sea-spiders",crustacean,2016,United Kingdom,27,"Atlantic, Northeast",363,0,363,CBA,0.82,0.62
+"Carcinus maenas_United States of America_Atlantic, Northwest",Carcinus maenas,Green crab,"Crabs, sea-spiders",crustacean,2016,United States of America,21,"Atlantic, Northwest",64,0,64,CBA,0.82,0.62
+"Maja squinado_Channel Islands_Atlantic, Northeast",Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,Channel Islands,27,"Atlantic, Northeast",180,0,180,CBA,0.82,0.62
+Maja squinado_Croatia_Mediterranean and Black Sea,Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,Croatia,37,Mediterranean and Black Sea,15,0,15,CBA,0.82,0.62
+"Maja squinado_France_Atlantic, Northeast",Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,France,27,"Atlantic, Northeast",5469,0,5469,CBA,0.82,0.62
+Maja squinado_France_Mediterranean and Black Sea,Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,France,37,Mediterranean and Black Sea,4,0,4,CBA,0.82,0.62
+"Maja squinado_Ireland_Atlantic, Northeast",Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,Ireland,27,"Atlantic, Northeast",77,0,77,CBA,0.82,0.62
+"Maja squinado_Morocco_Atlantic, Eastern Central",Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,Morocco,34,"Atlantic, Eastern Central",50,0,50,CBA,0.82,0.62
+"Maja squinado_Netherlands_Atlantic, Northeast",Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,Netherlands,27,"Atlantic, Northeast",1,0,1,CBA,0.82,0.62
+"Maja squinado_Portugal_Atlantic, Northeast",Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,Portugal,27,"Atlantic, Northeast",33,0,33,CBA,0.82,0.62
+"Maja squinado_Spain_Atlantic, Northeast",Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,Spain,27,"Atlantic, Northeast",280,0,280,CBA,0.82,0.62
+Maja squinado_Spain_Mediterranean and Black Sea,Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,Spain,37,Mediterranean and Black Sea,2,0,2,CBA,0.82,0.62
+"Maja squinado_United Kingdom_Atlantic, Northeast",Maja squinado,Spinous spider crab,"Crabs, sea-spiders",crustacean,2016,United Kingdom,27,"Atlantic, Northeast",351,0,351,CBA,0.82,0.62
+"Panulirus argus_Anguilla_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Anguilla,31,"Atlantic, Western Central",290,0,290,CBA,0.89,0.69
+"Panulirus argus_Antigua and Barbuda_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Antigua and Barbuda,31,"Atlantic, Western Central",165,0,165,CBA,0.89,0.69
+"Panulirus argus_Bahamas_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Bahamas,31,"Atlantic, Western Central",8482,8,8490,CBA,0.89,0.69
+"Panulirus argus_Belize_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Belize,31,"Atlantic, Western Central",774,0,774,CBA,0.89,0.69
+"Panulirus argus_Bermuda_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Bermuda,31,"Atlantic, Western Central",30,0,30,CBA,0.89,0.69
+"Panulirus argus_Bonaire/S.Eustatius/Saba_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Bonaire/S.Eustatius/Saba,31,"Atlantic, Western Central",70,0,70,CBA,0.89,0.69
+"Panulirus argus_Brazil_Atlantic, Southwest",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Brazil,41,"Atlantic, Southwest",6100,0,6100,CBA,0.89,0.69
+"Panulirus argus_British Virgin Islands_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,British Virgin Islands,31,"Atlantic, Western Central",40,0,40,CBA,0.89,0.69
+"Panulirus argus_Colombia_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Colombia,31,"Atlantic, Western Central",3,0,3,CBA,0.89,0.69
+"Panulirus argus_Costa Rica_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Costa Rica,31,"Atlantic, Western Central",9,0,9,CBA,0.89,0.69
+"Panulirus argus_Cuba_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Cuba,31,"Atlantic, Western Central",4634,0,4634,CBA,0.89,0.69
+"Panulirus argus_Dominican Republic_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Dominican Republic,31,"Atlantic, Western Central",1562,0,1562,CBA,0.89,0.69
+"Panulirus argus_Grenada_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Grenada,31,"Atlantic, Western Central",30,0,30,CBA,0.89,0.69
+"Panulirus argus_Haiti_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Haiti,31,"Atlantic, Western Central",250,0,250,CBA,0.89,0.69
+"Panulirus argus_Honduras_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Honduras,31,"Atlantic, Western Central",6100,0,6100,CBA,0.89,0.69
+"Panulirus argus_Jamaica_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Jamaica,31,"Atlantic, Western Central",350,0,350,CBA,0.89,0.69
+"Panulirus argus_Martinique_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Martinique,31,"Atlantic, Western Central",90,0,90,CBA,0.89,0.69
+"Panulirus argus_Mexico_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Mexico,31,"Atlantic, Western Central",822,0,822,CBA,0.89,0.69
+"Panulirus argus_Nicaragua_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Nicaragua,31,"Atlantic, Western Central",6450,0,6450,CBA,0.89,0.69
+"Panulirus argus_Puerto Rico_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Puerto Rico,31,"Atlantic, Western Central",118,0,118,CBA,0.89,0.69
+"Panulirus argus_Saint Kitts and Nevis_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Saint Kitts and Nevis,31,"Atlantic, Western Central",18,0,18,CBA,0.89,0.69
+"Panulirus argus_Saint Vincent/Grenadines_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Saint Vincent/Grenadines,31,"Atlantic, Western Central",56,0,56,CBA,0.89,0.69
+"Panulirus argus_Trinidad and Tobago_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Trinidad and Tobago,31,"Atlantic, Western Central",21,0,21,CBA,0.89,0.69
+"Panulirus argus_Turks and Caicos Is._Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Turks and Caicos Is.,31,"Atlantic, Western Central",250,0,250,CBA,0.89,0.69
+"Panulirus argus_United States of America_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,United States of America,31,"Atlantic, Western Central",2350,0,2350,CBA,0.89,0.69
+"Panulirus argus_US Virgin Islands_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,US Virgin Islands,31,"Atlantic, Western Central",69,0,69,CBA,0.89,0.69
+"Panulirus argus_Venezuela, Boliv Rep of_Atlantic, Western Central",Panulirus argus,Caribbean spiny lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,"Venezuela, Boliv Rep of",31,"Atlantic, Western Central",103,0,103,CBA,0.89,0.69
+Penaeus kerathurus_Albania_Mediterranean and Black Sea,Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Albania,37,Mediterranean and Black Sea,34,0,34,CBA,0.82,0.62
+"Penaeus kerathurus_Greece_Atlantic, Eastern Central",Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Greece,34,"Atlantic, Eastern Central",6,0,6,CBA,0.82,0.62
+Penaeus kerathurus_Greece_Mediterranean and Black Sea,Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Greece,37,Mediterranean and Black Sea,1404,0,1404,CBA,0.82,0.62
+"Penaeus kerathurus_Italy_Atlantic, Eastern Central",Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Italy,34,"Atlantic, Eastern Central",9,0,9,CBA,0.82,0.62
+Penaeus kerathurus_Italy_Mediterranean and Black Sea,Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Italy,37,Mediterranean and Black Sea,1117,0,1117,CBA,0.82,0.62
+Penaeus kerathurus_Libya_Mediterranean and Black Sea,Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Libya,37,Mediterranean and Black Sea,430,0,430,CBA,0.82,0.62
+Penaeus kerathurus_Slovenia_Mediterranean and Black Sea,Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Slovenia,37,Mediterranean and Black Sea,5,0,5,CBA,0.82,0.62
+"Penaeus kerathurus_Spain_Atlantic, Eastern Central",Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Spain,34,"Atlantic, Eastern Central",314,0,314,CBA,0.82,0.62
+Penaeus kerathurus_Spain_Mediterranean and Black Sea,Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Spain,37,Mediterranean and Black Sea,109,0,109,CBA,0.82,0.62
+Penaeus kerathurus_Tunisia_Mediterranean and Black Sea,Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Tunisia,37,Mediterranean and Black Sea,3611,0,3611,CBA,0.82,0.62
+Penaeus kerathurus_Turkey_Mediterranean and Black Sea,Penaeus kerathurus,Caramote prawn,"Shrimps, prawns",crustacean,2016,Turkey,37,Mediterranean and Black Sea,252,0,252,CBA,0.82,0.62
+"Penaeus setiferus_Mexico_Atlantic, Western Central",Penaeus setiferus,Northern white shrimp,"Shrimps, prawns",crustacean,2016,Mexico,31,"Atlantic, Western Central",1020,0,1020,CBA,0.46,0.26
+"Penaeus setiferus_United States of America_Atlantic, Northwest",Penaeus setiferus,Northern white shrimp,"Shrimps, prawns",crustacean,2016,United States of America,21,"Atlantic, Northwest",2134,0,2134,CBA,0.46,0.26
+"Penaeus setiferus_United States of America_Atlantic, Western Central",Penaeus setiferus,Northern white shrimp,"Shrimps, prawns",crustacean,2016,United States of America,31,"Atlantic, Western Central",52086,0,52086,CBA,0.46,0.26
+"Penaeus stylirostris_Mexico_Pacific, Eastern Central",Penaeus stylirostris,Blue shrimp,"Shrimps, prawns",crustacean,2016,Mexico,77,"Pacific, Eastern Central",30660,0,30660,CBA,0.91,0.71
+"Portunus pelagicus_Australia_Indian Ocean, Eastern",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Australia,57,"Indian Ocean, Eastern",656,0,656,CBA,0.87,0.67
+"Portunus pelagicus_Australia_Pacific, Western Central",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Australia,71,"Pacific, Western Central",2719,0,2719,CBA,0.87,0.67
+"Portunus pelagicus_Bahrain_Indian Ocean, Western",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Bahrain,51,"Indian Ocean, Western",4650,0,4650,CBA,0.87,0.67
+"Portunus pelagicus_China_Pacific, Northwest",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,China,61,"Pacific, Northwest",91316,0,91316,CBA,0.87,0.67
+"Portunus pelagicus_Indonesia_Indian Ocean, Eastern",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Indonesia,57,"Indian Ocean, Eastern",19598,0,19598,CBA,0.87,0.67
+"Portunus pelagicus_Indonesia_Pacific, Western Central",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Indonesia,71,"Pacific, Western Central",78114,0,78114,CBA,0.87,0.67
+"Portunus pelagicus_Iran (Islamic Rep. of)_Indian Ocean, Western",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Iran (Islamic Rep. of),51,"Indian Ocean, Western",3463,0,3463,CBA,0.87,0.67
+Portunus pelagicus_Israel_Mediterranean and Black Sea,Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Israel,37,Mediterranean and Black Sea,20,0,20,CBA,0.87,0.67
+Portunus pelagicus_Lebanon_Mediterranean and Black Sea,Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Lebanon,37,Mediterranean and Black Sea,38,0,38,CBA,0.87,0.67
+"Portunus pelagicus_Philippines_Pacific, Western Central",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Philippines,71,"Pacific, Western Central",28328,0,28328,CBA,0.87,0.67
+"Portunus pelagicus_Qatar_Indian Ocean, Western",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Qatar,51,"Indian Ocean, Western",315,0,315,CBA,0.87,0.67
+"Portunus pelagicus_Saudi Arabia_Indian Ocean, Western",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Saudi Arabia,51,"Indian Ocean, Western",4008,0,4008,CBA,0.87,0.67
+"Portunus pelagicus_Taiwan Province of China_Pacific, Northwest",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Taiwan Province of China,61,"Pacific, Northwest",903,0,903,CBA,0.87,0.67
+"Portunus pelagicus_Thailand_Indian Ocean, Eastern",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Thailand,57,"Indian Ocean, Eastern",3419,0,3419,CBA,0.87,0.67
+"Portunus pelagicus_Thailand_Pacific, Western Central",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,Thailand,71,"Pacific, Western Central",27733,0,27733,CBA,0.87,0.67
+"Portunus pelagicus_United Arab Emirates_Indian Ocean, Western",Portunus pelagicus,Blue swimming crab,"Crabs, sea-spiders",crustacean,2016,United Arab Emirates,51,"Indian Ocean, Western",300,0,300,CBA,0.87,0.67
+"Portunus trituberculatus_China_Pacific, Northwest",Portunus trituberculatus,Gazami crab,"Crabs, sea-spiders",crustacean,2016,China,61,"Pacific, Northwest",542070,0,542070,CBA,0.93,0.73
+"Portunus trituberculatus_Japan_Pacific, Northwest",Portunus trituberculatus,Gazami crab,"Crabs, sea-spiders",crustacean,2016,Japan,61,"Pacific, Northwest",2100,0,2100,CBA,0.93,0.73
+"Portunus trituberculatus_Korea, Republic of_Pacific, Northwest",Portunus trituberculatus,Gazami crab,"Crabs, sea-spiders",crustacean,2016,"Korea, Republic of",61,"Pacific, Northwest",13558,0,13558,CBA,0.93,0.73
+"Thenus orientalis_Bahrain_Indian Ocean, Western",Thenus orientalis,Flathead lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Bahrain,51,"Indian Ocean, Western",4,0,4,CBA,0.54,0.34
+"Thenus orientalis_Qatar_Indian Ocean, Western",Thenus orientalis,Flathead lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Qatar,51,"Indian Ocean, Western",4,0,4,CBA,0.54,0.34
+"Thenus orientalis_Saudi Arabia_Indian Ocean, Western",Thenus orientalis,Flathead lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Saudi Arabia,51,"Indian Ocean, Western",6,0,6,CBA,0.54,0.34
+"Thenus orientalis_Thailand_Indian Ocean, Eastern",Thenus orientalis,Flathead lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Thailand,57,"Indian Ocean, Eastern",46,0,46,CBA,0.54,0.34
+"Thenus orientalis_Thailand_Pacific, Western Central",Thenus orientalis,Flathead lobster,"Lobsters, spiny-rock lobsters",crustacean,2016,Thailand,71,"Pacific, Western Central",721,0,721,CBA,0.54,0.34
+"Aequipecten opercularis_Faroe Islands_Atlantic, Northeast",Aequipecten opercularis,Queen scallop,"Scallops, pectens",finfish,2016,Faroe Islands,27,"Atlantic, Northeast",2963,0,2963,CBA,0.68,0.48
+"Aequipecten opercularis_France_Atlantic, Northeast",Aequipecten opercularis,Queen scallop,"Scallops, pectens",finfish,2016,France,27,"Atlantic, Northeast",1896,0,1896,CBA,0.68,0.48
+"Aequipecten opercularis_Ireland_Atlantic, Northeast",Aequipecten opercularis,Queen scallop,"Scallops, pectens",finfish,2016,Ireland,27,"Atlantic, Northeast",84,0,84,CBA,0.68,0.48
+"Aequipecten opercularis_Isle of Man_Atlantic, Northeast",Aequipecten opercularis,Queen scallop,"Scallops, pectens",finfish,2016,Isle of Man,27,"Atlantic, Northeast",2475,0,2475,CBA,0.68,0.48
+"Aequipecten opercularis_Spain_Atlantic, Northeast",Aequipecten opercularis,Queen scallop,"Scallops, pectens",finfish,2016,Spain,27,"Atlantic, Northeast",76,1.847,77.847,CBA,0.68,0.48
+"Aequipecten opercularis_United Kingdom_Atlantic, Northeast",Aequipecten opercularis,Queen scallop,"Scallops, pectens",finfish,2016,United Kingdom,27,"Atlantic, Northeast",10644,6,10650,CBA,0.68,0.48
+"Argopecten ventricosus_Mexico_Pacific, Eastern Central",Argopecten ventricosus,Pacific calico scallop,"Scallops, pectens",finfish,2016,Mexico,77,"Pacific, Eastern Central",239,0,239,CBA,0.98,0.78
+"Aulacomya ater_Chile_Pacific, Southeast",Aulacomya ater,Cholga mussel,Mussels,finfish,2016,Chile,87,"Pacific, Southeast",7486,1005,8491,CBA,0.8,0.6
+"Aulacomya ater_Peru_Pacific, Southeast",Aulacomya ater,Cholga mussel,Mussels,finfish,2016,Peru,87,"Pacific, Southeast",3682,0,3682,CBA,0.8,0.6
+Chamelea gallina_Albania_Mediterranean and Black Sea,Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,Albania,37,Mediterranean and Black Sea,1,0,1,CBA,0.68,0.48
+"Chamelea gallina_France_Atlantic, Northeast",Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,France,27,"Atlantic, Northeast",602,0,602,CBA,0.68,0.48
+Chamelea gallina_Greece_Mediterranean and Black Sea,Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,Greece,37,Mediterranean and Black Sea,126,0,126,CBA,0.68,0.48
+Chamelea gallina_Italy_Mediterranean and Black Sea,Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,Italy,37,Mediterranean and Black Sea,16283,0,16283,CBA,0.68,0.48
+"Chamelea gallina_Netherlands_Atlantic, Northeast",Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,Netherlands,27,"Atlantic, Northeast",287,0,287,CBA,0.68,0.48
+"Chamelea gallina_Portugal_Atlantic, Northeast",Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,Portugal,27,"Atlantic, Northeast",88,0,88,CBA,0.68,0.48
+"Chamelea gallina_Spain_Atlantic, Northeast",Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,Spain,27,"Atlantic, Northeast",2708,0,2708,CBA,0.68,0.48
+Chamelea gallina_Spain_Mediterranean and Black Sea,Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,Spain,37,Mediterranean and Black Sea,3,0,3,CBA,0.68,0.48
+Chamelea gallina_Turkey_Mediterranean and Black Sea,Chamelea gallina,Striped venus,"Clams, cockles, arkshells",finfish,2016,Turkey,37,Mediterranean and Black Sea,20932,0,20932,CBA,0.68,0.48
+Chlamys varia_Croatia_Mediterranean and Black Sea,Chlamys varia,Variegated scallop,"Scallops, pectens",finfish,2016,Croatia,37,Mediterranean and Black Sea,19,0,19,CBA,0.76,0.56
+"Choromytilus chorus_Chile_Pacific, Southeast",Choromytilus chorus,Choro mussel,Mussels,finfish,2016,Chile,87,"Pacific, Southeast",1648,691,2339,CBA,0.8,0.6
+"Crassostrea rhizophorae_Dominican Republic_Atlantic, Western Central",Crassostrea rhizophorae,Mangrove cupped oyster,Oysters,finfish,2016,Dominican Republic,31,"Atlantic, Western Central",5,0,5,CBA,0.98,0.78
+"Crassostrea rhizophorae_Nicaragua_Atlantic, Western Central",Crassostrea rhizophorae,Mangrove cupped oyster,Oysters,finfish,2016,Nicaragua,31,"Atlantic, Western Central",4,0,4,CBA,0.98,0.78
+Donax spp_Italy_Mediterranean and Black Sea,Donax spp,Donax clams,"Clams, cockles, arkshells",finfish,2016,Italy,37,Mediterranean and Black Sea,623,0,623,CBA,0.76,0.56
+"Donax spp_Portugal_Atlantic, Northeast",Donax spp,Donax clams,"Clams, cockles, arkshells",finfish,2016,Portugal,27,"Atlantic, Northeast",194,0,194,CBA,0.76,0.56
+"Donax spp_South Africa_Atlantic, Southeast",Donax spp,Donax clams,"Clams, cockles, arkshells",finfish,2016,South Africa,47,"Atlantic, Southeast",36,0,36,CBA,0.76,0.56
+Donax spp_Spain_Mediterranean and Black Sea,Donax spp,Donax clams,"Clams, cockles, arkshells",finfish,2016,Spain,37,Mediterranean and Black Sea,1,0,1,CBA,0.76,0.56
+Mya arenaria_Bulgaria_Mediterranean and Black Sea,Mya arenaria,Sand gaper,"Clams, cockles, arkshells",finfish,2016,Bulgaria,37,Mediterranean and Black Sea,584,0,584,CBA,0.87,0.67
+"Mya arenaria_Canada_Atlantic, Northwest",Mya arenaria,Sand gaper,"Clams, cockles, arkshells",finfish,2016,Canada,21,"Atlantic, Northwest",1811,0,1811,CBA,0.87,0.67
+"Mya arenaria_Ireland_Atlantic, Northeast",Mya arenaria,Sand gaper,"Clams, cockles, arkshells",finfish,2016,Ireland,27,"Atlantic, Northeast",1,0,1,CBA,0.87,0.67
+"Mya arenaria_United Kingdom_Atlantic, Northeast",Mya arenaria,Sand gaper,"Clams, cockles, arkshells",finfish,2016,United Kingdom,27,"Atlantic, Northeast",34,0,34,CBA,0.87,0.67
+"Mya arenaria_United States of America_Atlantic, Northwest",Mya arenaria,Sand gaper,"Clams, cockles, arkshells",finfish,2016,United States of America,21,"Atlantic, Northwest",5665,62,5727,CBA,0.87,0.67
+"Mytilus chilensis_Chile_Pacific, Southeast",Mytilus chilensis,Chilean mussel,Mussels,finfish,2016,Chile,87,"Pacific, Southeast",2129,300648,302777,CBA,0.88,0.68
+"Mytilus coruscus_Korea, Republic of_Pacific, Northwest",Mytilus coruscus,Korean mussel,Mussels,finfish,2016,"Korea, Republic of",61,"Pacific, Northwest",1257,54642,55899,CBA,0.66,0.46
+"Mytilus edulis_Denmark_Atlantic, Northeast",Mytilus edulis,Blue mussel,Mussels,finfish,2016,Denmark,27,"Atlantic, Northeast",42909,2221,45130,CBA,0.43,0.23
+"Mytilus edulis_France_Atlantic, Northeast",Mytilus edulis,Blue mussel,Mussels,finfish,2016,France,27,"Atlantic, Northeast",494,46500,46994,CBA,0.43,0.23
+"Mytilus edulis_Germany_Atlantic, Northeast",Mytilus edulis,Blue mussel,Mussels,finfish,2016,Germany,27,"Atlantic, Northeast",22242,22264,44506,CBA,0.43,0.23
+"Mytilus edulis_Iceland_Atlantic, Northeast",Mytilus edulis,Blue mussel,Mussels,finfish,2016,Iceland,27,"Atlantic, Northeast",10,68,78,CBA,0.43,0.23
+"Mytilus edulis_Portugal_Atlantic, Northeast",Mytilus edulis,Blue mussel,Mussels,finfish,2016,Portugal,27,"Atlantic, Northeast",459,0,459,CBA,0.43,0.23
+"Mytilus edulis_Spain_Atlantic, Northeast",Mytilus edulis,Blue mussel,Mussels,finfish,2016,Spain,27,"Atlantic, Northeast",93,0,93,CBA,0.43,0.23
+"Mytilus edulis_United Kingdom_Atlantic, Northeast",Mytilus edulis,Blue mussel,Mussels,finfish,2016,United Kingdom,27,"Atlantic, Northeast",1617,10000,11617,CBA,0.43,0.23
+"Mytilus edulis_United States of America_Atlantic, Northwest",Mytilus edulis,Blue mussel,Mussels,finfish,2016,United States of America,21,"Atlantic, Northwest",9911,2225,12136,CBA,0.43,0.23
+Mytilus galloprovincialis_Albania_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Albania,37,Mediterranean and Black Sea,24,300,324,CBA,0.88,0.68
+Mytilus galloprovincialis_Bulgaria_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Bulgaria,37,Mediterranean and Black Sea,41,3931.9,3972.9,CBA,0.88,0.68
+Mytilus galloprovincialis_Croatia_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Croatia,37,Mediterranean and Black Sea,53,698.7,751.7,CBA,0.88,0.68
+Mytilus galloprovincialis_France_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,France,37,Mediterranean and Black Sea,166,9500,9666,CBA,0.88,0.68
+Mytilus galloprovincialis_Greece_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Greece,37,Mediterranean and Black Sea,71,23288.6,23359.6,CBA,0.88,0.68
+Mytilus galloprovincialis_Romania_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Romania,37,Mediterranean and Black Sea,68,24.64,92.64,CBA,0.88,0.68
+Mytilus galloprovincialis_Russian Federation_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Russian Federation,37,Mediterranean and Black Sea,3,0,3,CBA,0.88,0.68
+Mytilus galloprovincialis_Tunisia_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Tunisia,37,Mediterranean and Black Sea,53,0,53,CBA,0.88,0.68
+Mytilus galloprovincialis_Turkey_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Turkey,37,Mediterranean and Black Sea,78,329,407,CBA,0.88,0.68
+Mytilus galloprovincialis_Ukraine_Mediterranean and Black Sea,Mytilus galloprovincialis,Mediterranean mussel,Mussels,finfish,2016,Ukraine,37,Mediterranean and Black Sea,511,0,511,CBA,0.88,0.68
+"Mytilus platensis_Uruguay_Atlantic, Southwest",Mytilus platensis,River Plata mussel,Mussels,finfish,2016,Uruguay,41,"Atlantic, Southwest",13,0,13,CBA,0.75,0.55
+"Ostrea chilensis_Chile_Pacific, Southeast",Ostrea chilensis,Chilean flat oyster,Oysters,finfish,2016,Chile,87,"Pacific, Southeast",109,227,336,CBA,0.87,0.67
+Pecten jacobaeus_Croatia_Mediterranean and Black Sea,Pecten jacobaeus,Great Mediterranean scallop,"Scallops, pectens",finfish,2016,Croatia,37,Mediterranean and Black Sea,97,0.066,97.066,CBA,0.57,0.37
+Pecten jacobaeus_France_Mediterranean and Black Sea,Pecten jacobaeus,Great Mediterranean scallop,"Scallops, pectens",finfish,2016,France,37,Mediterranean and Black Sea,1,0,1,CBA,0.57,0.37
+Pecten jacobaeus_Italy_Mediterranean and Black Sea,Pecten jacobaeus,Great Mediterranean scallop,"Scallops, pectens",finfish,2016,Italy,37,Mediterranean and Black Sea,178,0,178,CBA,0.57,0.37
+"Pecten maximus_Belgium_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,Belgium,27,"Atlantic, Northeast",769,0,769,CBA,0.85,0.65
+"Pecten maximus_Channel Islands_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,Channel Islands,27,"Atlantic, Northeast",363,0.4,363.4,CBA,0.85,0.65
+"Pecten maximus_France_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,France,27,"Atlantic, Northeast",24616,0,24616,CBA,0.85,0.65
+"Pecten maximus_Ireland_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,Ireland,27,"Atlantic, Northeast",2141,33,2174,CBA,0.85,0.65
+"Pecten maximus_Isle of Man_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,Isle of Man,27,"Atlantic, Northeast",3152,0,3152,CBA,0.85,0.65
+"Pecten maximus_Netherlands_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,Netherlands,27,"Atlantic, Northeast",1,0,1,CBA,0.85,0.65
+"Pecten maximus_Norway_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,Norway,27,"Atlantic, Northeast",546,11.5,557.5,CBA,0.85,0.65
+"Pecten maximus_Spain_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,Spain,27,"Atlantic, Northeast",68,0,68,CBA,0.85,0.65
+"Pecten maximus_United Kingdom_Atlantic, Northeast",Pecten maximus,Great Atlantic scallop,"Scallops, pectens",finfish,2016,United Kingdom,27,"Atlantic, Northeast",28266,4,28270,CBA,0.85,0.65
+"Perna perna_Venezuela, Boliv Rep of_Atlantic, Western Central",Perna perna,South American rock mussel,Mussels,finfish,2016,"Venezuela, Boliv Rep of",31,"Atlantic, Western Central",58,7,65,CBA,0.46,0.26
+"Perna viridis_Indonesia_Indian Ocean, Eastern",Perna viridis,Green mussel,Mussels,finfish,2016,Indonesia,57,"Indian Ocean, Eastern",1714,0,1714,CBA,0.85,0.65
+"Perna viridis_Indonesia_Pacific, Western Central",Perna viridis,Green mussel,Mussels,finfish,2016,Indonesia,71,"Pacific, Western Central",10283,0,10283,CBA,0.85,0.65
+"Perna viridis_Philippines_Pacific, Western Central",Perna viridis,Green mussel,Mussels,finfish,2016,Philippines,71,"Pacific, Western Central",23,18775,18798,CBA,0.85,0.65
+"Saxidomus giganteus_Canada_Pacific, Northeast",Saxidomus giganteus,Butter clam,"Clams, cockles, arkshells",finfish,2016,Canada,67,"Pacific, Northeast",429,0,429,CBA,0.76,0.56
+"Saxidomus giganteus_United States of America_Pacific, Northeast",Saxidomus giganteus,Butter clam,"Clams, cockles, arkshells",finfish,2016,United States of America,67,"Pacific, Northeast",95,13,108,CBA,0.76,0.56
+Sepia officinalis_Albania_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Albania,37,Mediterranean and Black Sea,83,0,83,CBA,0.93,0.73
+Sepia officinalis_Algeria_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Algeria,37,Mediterranean and Black Sea,430,0,430,CBA,0.93,0.73
+"Sepia officinalis_Belgium_Atlantic, Northeast",Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Belgium,27,"Atlantic, Northeast",888,0,888,CBA,0.93,0.73
+"Sepia officinalis_Channel Islands_Atlantic, Northeast",Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Channel Islands,27,"Atlantic, Northeast",9,0,9,CBA,0.93,0.73
+Sepia officinalis_Croatia_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Croatia,37,Mediterranean and Black Sea,111,0,111,CBA,0.93,0.73
+Sepia officinalis_Cyprus_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Cyprus,37,Mediterranean and Black Sea,28,0,28,CBA,0.93,0.73
+"Sepia officinalis_France_Atlantic, Northeast",Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,France,27,"Atlantic, Northeast",9230,0,9230,CBA,0.93,0.73
+Sepia officinalis_France_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,France,37,Mediterranean and Black Sea,152,0,152,CBA,0.93,0.73
+"Sepia officinalis_Greece_Atlantic, Eastern Central",Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Greece,34,"Atlantic, Eastern Central",27,0,27,CBA,0.93,0.73
+Sepia officinalis_Greece_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Greece,37,Mediterranean and Black Sea,1950,0,1950,CBA,0.93,0.73
+Sepia officinalis_Israel_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Israel,37,Mediterranean and Black Sea,7,0,7,CBA,0.93,0.73
+Sepia officinalis_Libya_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Libya,37,Mediterranean and Black Sea,1040,0,1040,CBA,0.93,0.73
+Sepia officinalis_Malta_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Malta,37,Mediterranean and Black Sea,10,0,10,CBA,0.93,0.73
+"Sepia officinalis_Netherlands_Atlantic, Northeast",Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Netherlands,27,"Atlantic, Northeast",237,0,237,CBA,0.93,0.73
+"Sepia officinalis_Portugal_Atlantic, Northeast",Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Portugal,27,"Atlantic, Northeast",1225,0,1225,CBA,0.93,0.73
+Sepia officinalis_Slovenia_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Slovenia,37,Mediterranean and Black Sea,9,0,9,CBA,0.93,0.73
+"Sepia officinalis_Spain_Atlantic, Northeast",Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Spain,27,"Atlantic, Northeast",1414,0.045,1414.045,CBA,0.93,0.73
+Sepia officinalis_Tunisia_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Tunisia,37,Mediterranean and Black Sea,4829,0,4829,CBA,0.93,0.73
+Sepia officinalis_Turkey_Mediterranean and Black Sea,Sepia officinalis,Common cuttlefish,"Squids, cuttlefishes, octopuses",finfish,2016,Turkey,37,Mediterranean and Black Sea,925,0,925,CBA,0.93,0.73
+"Turbo cornutus_Japan_Pacific, Northwest",Turbo cornutus,Horned turban,"Abalones, winkles, conchs",finfish,2016,Japan,61,"Pacific, Northwest",6300,0,6300,CBA,0.65,0.45
+"Turbo cornutus_Korea, Republic of_Pacific, Northwest",Turbo cornutus,Horned turban,"Abalones, winkles, conchs",finfish,2016,"Korea, Republic of",61,"Pacific, Northwest",2115,0,2115,CBA,0.65,0.45
+"Venerupis pullastra_France_Atlantic, Northeast",Venerupis pullastra,Pullet carpet shell,"Clams, cockles, arkshells",finfish,2016,France,27,"Atlantic, Northeast",659,0,659,CBA,0.65,0.45
+"Venerupis pullastra_Portugal_Atlantic, Northeast",Venerupis pullastra,Pullet carpet shell,"Clams, cockles, arkshells",finfish,2016,Portugal,27,"Atlantic, Northeast",28,5.49,33.49,CBA,0.65,0.45
+"Venerupis pullastra_Spain_Atlantic, Northeast",Venerupis pullastra,Pullet carpet shell,"Clams, cockles, arkshells",finfish,2016,Spain,27,"Atlantic, Northeast",817,25.362,842.362,CBA,0.65,0.45
+"Venerupis rhomboides_Spain_Atlantic, Northeast",Venerupis rhomboides,Banded carpet shell,"Clams, cockles, arkshells",finfish,2016,Spain,27,"Atlantic, Northeast",509,0,509,CBA,0.76,0.56
+Venus verrucosa_Croatia_Mediterranean and Black Sea,Venus verrucosa,Warty venus,"Clams, cockles, arkshells",finfish,2016,Croatia,37,Mediterranean and Black Sea,125,0,125,CBA,0.83,0.63
