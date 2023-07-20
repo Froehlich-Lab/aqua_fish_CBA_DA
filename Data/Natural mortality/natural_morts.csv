@@ -1,0 +1,206 @@
+sciname,sp_name,group ,ISSCAAP_Group,M_dscrt_late,M_dsrt_early,Binary
+Salvelinus alpinus,Arctic char,PISCES,"Salmons, trouts, smelts",0.32,0.52,Domesticated
+Epinephelus areolatus,Areolate grouper,PISCES,Miscellaneous coastal fishes,0.34,0.54,Capture-based
+Thunnus thynnus,Atlantic bluefin tuna,PISCES,"Tunas, bonitos, billfishes",0.14,0.14,Capture-based
+Gadus morhua,Atlantic cod,PISCES,"Cods, hakes, haddocks",0.24,0.44,Domesticated
+Hippoglossus hippoglossus,Atlantic halibut,PISCES,"Flounders, halibuts, soles",0.11,0.31,Domesticated
+Salmo salar,Atlantic salmon,PISCES,"Salmons, trouts, smelts",0.44,0.64,Domesticated
+Chaetodipterus faber,Atlantic spadefish,PISCES,Miscellaneous coastal fishes,0.44,0.64,Capture-based
+Anarhichas lupus,Atlantic wolffish,PISCES,Miscellaneous demersal fishes,0.13,0.33,Capture-based
+Lates calcarifer,Barramundi(=Giant seaperch),PISCES,Miscellaneous diadromous fishes,0.35,0.55,Domesticated
+Paralichthys olivaceus,Bastard halibut,PISCES,"Flounders, halibuts, soles",0.34,0.54,Domesticated
+Atherina boyeri,Big-scale sand smelt,PISCES,Miscellaneous pelagic fishes,0.65,0.85,Capture-based
+Caranx sexfasciatus,Bigeye trevally,PISCES,Miscellaneous pelagic fishes,0.56,0.76,Capture-based
+Mycteroperca bonaci,Black grouper,PISCES,Miscellaneous coastal fishes,0.20,0.40,Capture-based
+Acanthopagrus schlegeli,Blackhead seabream,PISCES,Miscellaneous coastal fishes,0.27,0.47,Domesticated
+Pagellus bogaraveo,Blackspot(=red) seabream,PISCES,Miscellaneous coastal fishes,0.23,0.43,Domesticated
+Epinephelus fuscoguttatus,Brown-marbled grouper,PISCES,Miscellaneous coastal fishes,0.26,0.46,Capture-based
+Oncorhynchus tshawytscha,Chinook(=Spring=King) salmon,PISCES,"Salmons, trouts, smelts",0.54,0.74,Domesticated
+Oncorhynchus keta,Chum(=Keta=Dog) salmon,PISCES,"Salmons, trouts, smelts",0.54,0.74,Domesticated
+Rachycentron canadum,Cobia,PISCES,Miscellaneous pelagic fishes,0.37,0.57,Domesticated
+Oncorhynchus kisutch,Coho(=Silver) salmon,PISCES,"Salmons, trouts, smelts",0.59,0.79,Domesticated
+Cyprinus carpio,Common carp,PISCES,"Carps, barbels and other cyprinids",0.34,0.54,Domesticated
+Dentex dentex,Common dentex,PISCES,Miscellaneous coastal fishes,0.21,0.41,Capture-based
+Pagellus erythrinus,Common pandora,PISCES,Miscellaneous coastal fishes,0.30,0.50,Capture-based
+Centropomus undecimalis,Common snook,PISCES,Miscellaneous coastal fishes,0.46,0.66,Capture-based
+Solea solea,Common sole,PISCES,"Flounders, halibuts, soles",0.25,0.45,Capture-based
+Diplodus vulgaris,Common two-banded seabream,PISCES,Miscellaneous coastal fishes,0.40,0.60,Capture-based
+Caranx hippos,Crevalle jack,PISCES,Miscellaneous pelagic fishes,0.66,0.86,Capture-based
+Evynnis japonica,Crimson seabream,PISCES,Miscellaneous coastal fishes,0.35,0.55,Capture-based
+Lutjanus erythropterus,Crimson snapper,PISCES,Miscellaneous coastal fishes,0.31,0.51,Capture-based
+Muraenesox cinereus,Daggertooth pike conger,PISCES,Miscellaneous demersal fishes,0.28,0.48,Capture-based
+Konosirus punctatus,Dotted gizzard shad,PISCES,Shads,0.48,0.68,Capture-based
+Lutjanus sebae,Emperor red snapper,PISCES,Miscellaneous coastal fishes,0.17,0.37,Capture-based
+Anguilla anguilla,European eel,PISCES,River eels,0.21,0.41,Capture-based
+Platichthys flesus,European flounder,PISCES,"Flounders, halibuts, soles",0.22,0.42,Capture-based
+Dicentrarchus labrax,European seabass,PISCES,Miscellaneous coastal fishes,0.17,0.37,Domesticated
+Mugil cephalus,Flathead grey mullet,PISCES,Miscellaneous coastal fishes,0.28,0.48,Domesticated
+Trachinotus carolinus,Florida pompano,PISCES,Miscellaneous pelagic fishes,0.61,0.81,Capture-based
+Eleutheronema tetradactylum,Fourfinger threadfin,PISCES,Miscellaneous coastal fishes,0.48,0.68,Capture-based
+Epinephelus lanceolatus,Giant grouper,PISCES,Miscellaneous coastal fishes,0.27,0.47,Capture-based
+Caranx ignobilis,Giant trevally,PISCES,Miscellaneous pelagic fishes,0.38,0.58,Capture-based
+Sparus aurata,Gilthead seabream,PISCES,Miscellaneous coastal fishes,0.34,0.54,Domesticated
+Gnathanodon speciosus,Golden trevally,PISCES,Miscellaneous pelagic fishes,0.54,0.74,Capture-based
+Rhabdosargus sarba,Goldlined seabream,PISCES,Miscellaneous coastal fishes,0.63,0.83,Capture-based
+Acanthopagrus berda,Goldsilk seabream,PISCES,Miscellaneous coastal fishes,0.33,0.53,Capture-based
+Epinephelus tauvina,Greasy grouper,PISCES,Miscellaneous coastal fishes,0.20,0.40,Capture-based
+Seriola dumerili,Greater amberjack,PISCES,Miscellaneous pelagic fishes,0.44,0.64,Capture-based
+Bolbometopon muricatum,Green humphead parrotfish,PISCES,Miscellaneous coastal fishes,0.13,0.33,Capture-based
+Melanogrammus aeglefinus,Haddock,PISCES,"Cods, hakes, haddocks",0.30,0.50,Capture-based
+Epinephelus akaara,Hong Kong grouper,PISCES,Miscellaneous coastal fishes,0.27,0.47,Capture-based
+Cromileptes altivelis,Humpback grouper,PISCES,Miscellaneous coastal fishes,0.30,0.50,Capture-based
+Seriola quinqueradiata,Japanese amberjack,PISCES,Miscellaneous pelagic fishes,0.44,0.64,Capture-based
+Trachurus japonicus,Japanese jack mackerel,PISCES,Miscellaneous pelagic fishes,0.29,0.49,Capture-based
+Argyrosomus japonicus,Japanese meagre,PISCES,Miscellaneous coastal fishes,0.14,0.34,Capture-based
+Lateolabrax japonicus,Japanese seabass,PISCES,Miscellaneous coastal fishes,0.26,0.46,Domesticated
+Pagrus major,Japanese seabream,PISCES,Miscellaneous coastal fishes,0.28,0.48,Capture-based
+Lutjanus johnii,John's snapper,PISCES,Miscellaneous coastal fishes,0.21,0.41,Capture-based
+Sebastes schlegeli,Korean rockfish,PISCES,Miscellaneous demersal fishes,0.10,0.30,Domesticated
+Larimichthys croceus,Large yellow croaker,PISCES,Miscellaneous coastal fishes,0.46,0.66,Domesticated
+Seriola rivoliana,Longfin yellowtail,PISCES,Miscellaneous pelagic fishes,0.49,0.69,Capture-based
+Lutjanus malabaricus,Malabar blood snapper,PISCES,Miscellaneous coastal fishes,0.19,0.39,Capture-based
+Epinephelus malabaricus,Malabar grouper,PISCES,Miscellaneous coastal fishes,0.28,0.48,Capture-based
+Carangoides malabaricus,Malabar trevally,PISCES,Miscellaneous pelagic fishes,0.78,0.98,Capture-based
+Lutjanus argentimaculatus,Mangrove red snapper,PISCES,Miscellaneous coastal fishes,0.21,0.41,Capture-based
+Siganus rivulatus,Marbled spinefoot,PISCES,Miscellaneous coastal fishes,0.59,0.79,Capture-based
+Oncorhynchus masou,Masu(=Cherry) salmon,PISCES,"Salmons, trouts, smelts",0.54,0.74,Capture-based
+Argyrosomus regius,Meagre,PISCES,Miscellaneous coastal fishes,0.16,0.36,Domesticated
+Miichthys miiuy,Mi-iuy (brown) croaker,PISCES,Miscellaneous coastal fishes,0.46,0.66,Capture-based
+Chanos chanos,Milkfish,PISCES,Miscellaneous diadromous fishes,0.57,0.77,Domesticated
+Oreochromis mossambicus,Mozambique tilapia,PISCES,Tilapias and other cichlids,0.69,0.89,Domesticated
+Pleurogrammus azonus,Okhotsk atka mackerel,PISCES,Miscellaneous coastal fishes,0.22,0.42,Capture-based
+Epinephelus coioides,Orange-spotted grouper,PISCES,Miscellaneous coastal fishes,0.21,0.41,Capture-based
+Platax orbicularis,Orbicular batfish,PISCES,Miscellaneous coastal fishes,0.44,0.64,Capture-based
+Thunnus orientalis,Pacific bluefin tuna,PISCES,"Tunas, bonitos, billfishes",0.26,0.26,Capture-based
+Lutjanus goldiei,Papuan black snapper,PISCES,Miscellaneous coastal fishes,0.25,0.45,Capture-based
+Dentex gibbosus,Pink dentex,PISCES,Miscellaneous coastal fishes,0.27,0.47,Capture-based
+Pollachius pollachius,Pollack,PISCES,"Cods, hakes, haddocks",0.33,0.53,Capture-based
+Oncorhynchus mykiss,Rainbow trout,PISCES,"Salmons, trouts, smelts",0.62,0.82,Domesticated
+Sciaenops ocellatus,Red drum,PISCES,Miscellaneous coastal fishes,0.40,0.60,Domesticated
+Pagrus pagrus,Red porgy,PISCES,Miscellaneous coastal fishes,0.28,0.48,Domesticated
+Lutjanus russelli,Russell's snapper,PISCES,Miscellaneous coastal fishes,0.25,0.45,Capture-based
+Salmo trutta,Sea trout,PISCES,"Salmons, trouts, smelts",0.44,0.64,Domesticated
+Solea senegalensis,Senegalese sole,PISCES,"Flounders, halibuts, soles",0.18,0.38,Capture-based
+Diplodus puntazzo,Sharpsnout seabream,PISCES,Miscellaneous coastal fishes,0.43,0.63,Domesticated
+Umbrina cirrosa,Shi drum,PISCES,Miscellaneous coastal fishes,0.42,0.62,Capture-based
+Pagrus auratus,Silver seabream,PISCES,Miscellaneous coastal fishes,0.18,0.38,Domesticated
+Polydactylus sexfilis,Sixfinger threadfin,PISCES,Miscellaneous coastal fishes,0.56,0.76,Capture-based
+Trachinotus blochii,Snubnose pompano,PISCES,Miscellaneous pelagic fishes,0.61,0.81,Domesticated
+Sparidentex hasta,Sobaity seabream,PISCES,Miscellaneous coastal fishes,0.32,0.52,Capture-based
+Oncorhynchus nerka,Sockeye(=Red) salmon,PISCES,"Salmons, trouts, smelts",0.50,0.70,Capture-based
+Thunnus maccoyii,Southern bluefin tuna,PISCES,"Tunas, bonitos, billfishes",0.24,0.24,Capture-based
+Plectropomus maculatus,Spotted coralgrouper,PISCES,Miscellaneous coastal fishes,0.29,0.49,Capture-based
+Dicentrarchus punctatus,Spotted seabass,PISCES,Miscellaneous coastal fishes,0.19,0.39,Capture-based
+Anarhichas minor,Spotted wolffish,PISCES,Miscellaneous demersal fishes,0.14,0.34,Domesticated
+Siganus javus,Streaked spinefoot,PISCES,Miscellaneous coastal fishes,0.66,0.86,Capture-based
+Morone chrysops x M. saxatilis,"Striped bass, hybrid",PISCES,Miscellaneous freshwater fishes,0.33,0.53,Capture-based
+Megalops atlanticus,Tarpon,PISCES,Miscellaneous coastal fishes,0.11,0.31,Capture-based
+Takifugu rubripes,Tiger pufferfish,PISCES,Miscellaneous coastal fishes,0.49,0.69,Capture-based
+Lethrinus miniatus,Trumpet emperor,PISCES,Miscellaneous coastal fishes,0.35,0.55,Capture-based
+Psetta maxima,Turbot,PISCES,"Flounders, halibuts, soles",0.36,0.56,Domesticated
+Diplodus sargus,White seabream,PISCES,Miscellaneous coastal fishes,0.35,0.55,Capture-based
+Pseudocaranx dentex,White trevally,PISCES,Miscellaneous pelagic fishes,0.40,0.60,Domesticated
+Siganus canaliculatus,White-spotted spinefoot,PISCES,Miscellaneous coastal fishes,0.78,0.98,Capture-based
+Dentex tumifrons,Yellowback seabream,PISCES,Miscellaneous coastal fishes,0.37,0.57,Capture-based
+Acanthopagrus latus,Yellowfin seabream,PISCES,Miscellaneous coastal fishes,0.27,0.47,Domesticated
+Thunnus albacares,Yellowfin tuna,PISCES,"Tunas, bonitos, billfishes",0.39,0.39,Capture-based
+Seriola lalandi,Yellowtail amberjack,PISCES,Miscellaneous pelagic fishes,0.47,0.67,Capture-based
+Palaemonetes varians,Atlantic ditch shrimp,CRUSTACEA,"Shrimps, prawns",0.71,0.91,Capture-based
+Penaeus merguiensis,Banana prawn,CRUSTACEA,"Shrimps, prawns",0.70,0.90,Domesticated
+Penaeus stylirostris,Blue shrimp,CRUSTACEA,"Shrimps, prawns",0.71,0.91,Capture-based
+Portunus pelagicus,Blue swimming crab,CRUSTACEA,"Crabs, sea-spiders",0.67,0.87,Capture-based
+Artemia salina,Brine shrimp,CRUSTACEA,Miscellaneous marine crustaceans,0.68,0.88,Capture-based
+Penaeus esculentus,Brown tiger prawn,CRUSTACEA,"Shrimps, prawns",0.41,0.61,Capture-based
+Penaeus kerathurus,Caramote prawn,CRUSTACEA,"Shrimps, prawns",0.62,0.82,Capture-based
+Panulirus argus,Caribbean spiny lobster,CRUSTACEA,"Lobsters, spiny-rock lobsters",0.69,0.89,Capture-based
+Penaeus plebejus,Eastern king prawn,CRUSTACEA,"Shrimps, prawns",0.80,0.99,Capture-based
+Thenus orientalis,Flathead lobster,CRUSTACEA,"Lobsters, spiny-rock lobsters",0.34,0.54,Capture-based
+Penaeus chinensis,Fleshy prawn,CRUSTACEA,"Shrimps, prawns",0.78,0.98,Domesticated
+Portunus trituberculatus,Gazami crab,CRUSTACEA,"Crabs, sea-spiders",0.73,0.93,Capture-based
+Penaeus monodon,Giant tiger prawn,CRUSTACEA,"Shrimps, prawns",0.65,0.85,Domesticated
+Carcinus maenas,Green crab,CRUSTACEA,"Crabs, sea-spiders",0.62,0.82,Capture-based
+Penaeus indicus,Indian white prawn,CRUSTACEA,"Shrimps, prawns",0.68,0.88,Domesticated
+Scylla serrata,Indo-Pacific swamp crab,CRUSTACEA,"Crabs, sea-spiders",0.68,0.88,Domesticated
+Panulirus japonicus,Japanese spiny lobster,CRUSTACEA,"Lobsters, spiny-rock lobsters",0.69,0.89,Capture-based
+Penaeus japonicus,Kuruma prawn,CRUSTACEA,"Shrimps, prawns",0.64,0.84,Domesticated
+Panulirus polyphagus,Mud spiny lobster,CRUSTACEA,"Lobsters, spiny-rock lobsters",0.66,0.86,Capture-based
+Penaeus setiferus,Northern white shrimp,CRUSTACEA,"Shrimps, prawns",0.26,0.46,Capture-based
+Scylla olivacea,Orange mud crab,CRUSTACEA,"Crabs, sea-spiders",0.74,0.94,Capture-based
+Maja squinado,Spinous spider crab,CRUSTACEA,"Crabs, sea-spiders",0.62,0.82,Capture-based
+Penaeus vannamei,Whiteleg shrimp,CRUSTACEA,"Shrimps, prawns",0.71,0.91,Domesticated
+Crassostrea virginica,American cupped oyster,MOLLUSCA,Oysters,0.32,0.52,Domesticated
+Mytilus planulatus,Australian mussel,MOLLUSCA,Mussels,0.60,0.80,Capture-based
+Venerupis rhomboides,Banded carpet shell,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Hippopus hippopus,Bear paw clam,MOLLUSCA,"Clams, cockles, arkshells",0.29,0.49,Capture-based
+Anadara tuberculosa,Black ark,MOLLUSCA,"Clams, cockles, arkshells",0.65,0.85,Capture-based
+Anadara granosa,Blood cockle,MOLLUSCA,"Clams, cockles, arkshells",0.75,0.95,Domesticated
+Mytilus edulis,Blue mussel,MOLLUSCA,Mussels,0.23,0.43,Capture-based
+Saxidomus giganteus,Butter clam,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Ostrea chilensis,Chilean flat oyster,MOLLUSCA,Oysters,0.67,0.87,Capture-based
+Mytilus chilensis,Chilean mussel,MOLLUSCA,Mussels,0.68,0.88,Capture-based
+Aulacomya ater,Cholga mussel,MOLLUSCA,Mussels,0.60,0.80,Capture-based
+Choromytilus chorus,Choro mussel,MOLLUSCA,Mussels,0.60,0.80,Capture-based
+Sepia officinalis,Common cuttlefish,MOLLUSCA,"Squids, cuttlefishes, octopuses",0.73,0.93,Capture-based
+Cerastoderma edule,Common edible cockle,MOLLUSCA,"Clams, cockles, arkshells",0.61,0.81,Domesticated
+Sinonovacula constricta,Constricted tagelus,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Domesticated
+Soletellina diphos,Diphos sanguin,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Donax spp,Donax clams,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Ostrea edulis,European flat oyster,MOLLUSCA,Oysters,0.67,0.87,Domesticated
+Concholepas concholepas,False abalone,MOLLUSCA,"Abalones, winkles, conchs",0.18,0.38,Domesticated
+Crassostrea gasar,Gasar cupped oyster,MOLLUSCA,Oysters,0.77,0.97,Capture-based
+Mactra veneriformis,Globose clam,MOLLUSCA,"Clams, cockles, arkshells",0.07,0.27,Capture-based
+Venerupis aurea,Golden carpet shell,MOLLUSCA,"Clams, cockles, arkshells",0.67,0.87,Capture-based
+Anadara grandis,Grand ark,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Pecten maximus,Great Atlantic scallop,MOLLUSCA,"Scallops, pectens",0.65,0.85,Capture-based
+Pecten jacobaeus,Great Mediterranean scallop,MOLLUSCA,"Scallops, pectens",0.37,0.57,Capture-based
+Perna viridis,Green mussel,MOLLUSCA,Mussels,0.65,0.85,Capture-based
+Ruditapes decussatus,Grooved carpet shell,MOLLUSCA,"Clams, cockles, arkshells",0.78,0.98,Domesticated
+Saccostrea cuccullata,Hooded oyster,MOLLUSCA,Oysters,0.67,0.87,Capture-based
+Turbo cornutus,Horned turban,MOLLUSCA,"Abalones, winkles, conchs",0.45,0.65,Capture-based
+Crassostrea madrasensis,Indian backwater oyster,MOLLUSCA,Oysters,0.75,0.95,Domesticated
+Scapharca broughtonii,Inflated ark,MOLLUSCA,"Clams, cockles, arkshells",0.51,0.71,Domesticated
+Haliotis discus,Japanese abalone,MOLLUSCA,"Abalones, winkles, conchs",0.62,0.82,Domesticated
+Ruditapes philippinarum,Japanese carpet shell,MOLLUSCA,"Clams, cockles, arkshells",0.63,0.83,Domesticated
+Meretrix lusoria,Japanese hard clam,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Domesticated
+Mytilus coruscus,Korean mussel,MOLLUSCA,Mussels,0.46,0.66,Capture-based
+Crassostrea rhizophorae,Mangrove cupped oyster,MOLLUSCA,Oysters,0.78,0.98,Capture-based
+Mytilus galloprovincialis,Mediterranean mussel,MOLLUSCA,Mussels,0.68,0.88,Capture-based
+Perna canaliculus,New Zealand mussel,MOLLUSCA,Mussels,0.69,0.89,Capture-based
+Mercenaria mercenaria,Northern quahog(=Hard clam),MOLLUSCA,"Clams, cockles, arkshells",0.48,0.68,Domesticated
+Ostreola conchaphila,Olympia oyster,MOLLUSCA,Oysters,0.67,0.87,Capture-based
+Cyclina sinensis,Oriental cyclina,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Asaphis violascens,Pacific asaphis,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Argopecten ventricosus,Pacific calico scallop,MOLLUSCA,"Scallops, pectens",0.78,0.98,Capture-based
+Crassostrea gigas,Pacific cupped oyster,MOLLUSCA,Oysters,0.73,0.93,Domesticated
+Panopea generosa,Pacific geoduck,MOLLUSCA,"Clams, cockles, arkshells",0.07,0.27,Domesticated
+Tresus nuttallii,Pacific horse clam,MOLLUSCA,"Clams, cockles, arkshells",0.31,0.51,Capture-based
+Lyropecten subnodosus,Pacific lion's paw,MOLLUSCA,"Scallops, pectens",0.78,0.98,Capture-based
+Protothaca staminea,Pacific littleneck clam,MOLLUSCA,"Clams, cockles, arkshells",0.39,0.59,Capture-based
+Scrobicularia plana,Peppery furrow,MOLLUSCA,"Clams, cockles, arkshells",0.67,0.87,Capture-based
+Haliotis midae,Perlemoen abalone,MOLLUSCA,"Abalones, winkles, conchs",0.20,0.40,Domesticated
+Argopecten purpuratus,Peruvian calico scallop,MOLLUSCA,"Scallops, pectens",0.77,0.97,Domesticated
+Venerupis pullastra,Pullet carpet shell,MOLLUSCA,"Clams, cockles, arkshells",0.45,0.65,Capture-based
+Strombus gigas,Queen conch,MOLLUSCA,"Abalones, winkles, conchs",0.33,0.53,Capture-based
+Aequipecten opercularis,Queen scallop,MOLLUSCA,"Scallops, pectens",0.48,0.68,Capture-based
+Haliotis iris,Rainbow abalone,MOLLUSCA,"Abalones, winkles, conchs",0.52,0.72,Domesticated
+Haliotis rufescens,Red abalone,MOLLUSCA,"Abalones, winkles, conchs",0.38,0.58,Domesticated
+Mytilus platensis,River Plata mussel,MOLLUSCA,Mussels,0.55,0.75,Capture-based
+Paphia gallus,Rooster venus,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Turbo setosus,Rough turban,MOLLUSCA,"Abalones, winkles, conchs",0.75,0.95,Capture-based
+Mya arenaria,Sand gaper,MOLLUSCA,"Clams, cockles, arkshells",0.67,0.87,Capture-based
+Rapana spp,Sea snails,MOLLUSCA,"Abalones, winkles, conchs",0.45,0.65,Domesticated
+Crassostrea iredalei,Slipper cupped oyster,MOLLUSCA,Oysters,0.67,0.87,Domesticated
+Mactra glabrata,Smooth mactra,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Perna perna,South American rock mussel,MOLLUSCA,Mussels,0.26,0.46,Capture-based
+Pecten fumatus,Southern Australia scallop,MOLLUSCA,"Scallops, pectens",0.74,0.94,Capture-based
+Chamelea gallina,Striped venus,MOLLUSCA,"Clams, cockles, arkshells",0.48,0.68,Capture-based
+Saccostrea commercialis,Sydney cupped oyster,MOLLUSCA,Oysters,0.67,0.87,Capture-based
+Haliotis tuberculata,Tuberculate abalone,MOLLUSCA,"Abalones, winkles, conchs",0.34,0.54,Domesticated
+Chlamys varia,Variegated scallop,MOLLUSCA,"Scallops, pectens",0.56,0.76,Capture-based
+Venus verrucosa,Warty venus,MOLLUSCA,"Clams, cockles, arkshells",0.63,0.83,Capture-based
+Patinopecten yessoensis,Yesso scallop,MOLLUSCA,"Scallops, pectens",0.74,0.94,Domesticated
+Tridacna crocea,Crocus giant clam,MOLLUSCA,"Clams, cockles, arkshells",0.56,0.76,Capture-based
+Tridacna maxima,Elongate giant clam,MOLLUSCA,"Clams, cockles, arkshells",0.39,0.59,Capture-based
+Tridacna squamosa,Fluted giant clam,MOLLUSCA,"Clams, cockles, arkshells",0.32,0.52,Capture-based
+Tridacna gigas,Giant clam,MOLLUSCA,"Clams, cockles, arkshells",0.13,0.33,Capture-based
+Tridacna derasa,Smooth giant clam,MOLLUSCA,"Clams, cockles, arkshells",0.19,0.39,Capture-based
